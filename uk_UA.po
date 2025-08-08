@@ -165,43 +165,43 @@ msgstr "%s годин"
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 120
 #, php-format
 msgid "%s hours ago"
-msgstr ""
+msgstr "%s годин тому"
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 126
 #, php-format
 msgid ""
 "%s interface path cost for STP needs to be an integer between 1 and "
 "200000000."
-msgstr ""
+msgstr "Вартість шляху інтерфейсу %s для STP повинна бути цілим числом від 1 до 200000000."
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 123
 #, php-format
 msgid "%s interface priority for STP needs to be an integer between 0 and 240."
-msgstr ""
+msgstr "Пріоритет інтерфейсу %s для STP повинен бути цілим числом від 0 до 240."
 #
 # File: /usr/plugins/dns/dnscrypt-proxy/src/opnsense/mvc/app/models/OPNsense/Dnscryptproxy/General.php, line: 72
 #, php-format
 msgid "%s is currently using one of these ports."
-msgstr ""
+msgstr "%s наразі використовує один з цих портів."
 #
 # File: /usr/plugins/dns/bind/src/opnsense/mvc/app/models/OPNsense/Bind/General.php, line: 56
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Unbound/Unbound.php, line: 56
 # File: /usr/core/src/www/services_dnsmasq.php, line: 89
 #, php-format
 msgid "%s is currently using this port."
-msgstr ""
+msgstr "%s наразі використовує цей порт."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 188
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 210
 #, php-format
 msgid "%s is not a valid IPv4 address."
-msgstr ""
+msgstr "%s не є дійсною IPv4 адресою."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 191
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 213
 #, php-format
 msgid "%s is not a valid IPv6 address."
-msgstr ""
+msgstr "%s не є дійсною IPv6 адресою."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 200
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 304
@@ -223,7 +223,7 @@ msgstr ""
 msgid ""
 "%s is not a valid end source port. It must be a port alias or integer "
 "between 1 and 65535."
-msgstr ""
+msgstr "%s не є дійсним кінцевим портом джерела. Це повинен бути псевдонім порту або ціле число від 1 до 65535."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Base/FieldTypes/NetworkAliasField.php, line: 61
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 182
@@ -231,7 +231,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 298
 #, php-format
 msgid "%s is not a valid source IP address or alias."
-msgstr ""
+msgstr "%s не є дійсною IP-адресою джерела або псевдонімом."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 173
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 282
@@ -239,7 +239,7 @@ msgstr ""
 msgid ""
 "%s is not a valid start destination port. It must be a port alias or integer "
 "between 1 and 65535."
-msgstr ""
+msgstr "%s не є дійсним початковим портом призначення. Це повинен бути псевдонім порту або ціле число від 1 до 65535."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 169
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 276
@@ -247,7 +247,7 @@ msgstr ""
 msgid ""
 "%s is not a valid start source port. It must be a port alias or integer "
 "between 1 and 65535."
-msgstr ""
+msgstr "%s не є дійсним початковим портом джерела. Це повинен бути псевдонім порту або ціле число від 1 до 65535."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 272
 #, php-format
