@@ -1028,7 +1028,7 @@ msgstr ""
 #
 # File: /usr/plugins/dns/rfc2136/src/www/services_rfc2136_edit.php, line: 187
 msgid "A (IPv4)"
-msgstr ""
+msgstr "A (IPv4)"
 #
 # File: /usr/core/src/www/status_wireless.php, line: 160
 msgid "A = authorized, E = Extended Rate (802.11g), P = Power save mode"
@@ -1050,7 +1050,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_schedule_edit.php, line: 127
 msgid "A Schedule with this name already exists."
-msgstr ""
+msgstr "Розклад з такою назвою вже існує."
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 156
 msgid ""
@@ -1060,11 +1060,11 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Vip.php, line: 145
 msgid "A VHID must be selected for this CARP VIP."
-msgstr ""
+msgstr "Для цього CARP VIP потрібно вибрати VHID."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Syslog/Syslog.php, line: 73
 msgid "A certificate is required for tls types"
-msgstr ""
+msgstr "Для типів tls потрібен сертифікат"
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 274
 msgid ""
@@ -1101,23 +1101,23 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 134
 msgid "A member interface passed does not exist in configuration"
-msgstr ""
+msgstr "Переданий інтерфейс-член не існує в конфігурації"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 356
 msgid "A numeric value must be specified for DPD delay."
-msgstr ""
+msgstr "Для затримки DPD потрібно вказати числове значення."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 359
 msgid "A numeric value must be specified for DPD retries."
-msgstr ""
+msgstr "Для повторів DPD потрібно вказати числове значення."
 #
 # File: /usr/core/src/www/system_usermanager.php, line: 275
 msgid "A password is required."
-msgstr ""
+msgstr "Потрібен пароль."
 #
 # File: /usr/plugins/sysutils/nextcloud-backup/src/opnsense/mvc/app/library/OPNsense/Backup/Nextcloud.php, line: 79
 msgid "A password to encrypt your configuration"
-msgstr ""
+msgstr "Пароль для шифрування вашої конфігурації"
 #
 # File: /usr/core/src/www/authgui.inc, line: 157
 #, php-format
@@ -1130,16 +1130,16 @@ msgstr ""
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 617
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 208
 msgid "A prefix longer than 28 cannot be used with a net30 topology."
-msgstr ""
+msgstr "Префікс довший за 28 не можна використовувати з топологією net30."
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 210
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 213
 msgid "A prefix longer than 29 cannot be used for tunnel network."
-msgstr ""
+msgstr "Префікс довший за 29 не можна використовувати для тунельної мережі."
 #
 # File: /usr/core/src/www/system_general.php, line: 129
 msgid "A search domain may only contain the characters a-z, 0-9, '-' and '.'."
-msgstr ""
+msgstr "Домен пошуку може містити лише символи a-z, 0-9, '-' та '.'."
 #
 # File: /usr/core/src/www/services_ntpd_pps.php, line: 195
 msgid ""
@@ -1149,7 +1149,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_authservers.php, line: 219
 msgid "A server name must be provided."
-msgstr ""
+msgstr "Потрібно вказати ім'я сервера."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Base/FieldTypes/PortField.php, line: 186
 #, php-format
@@ -1158,20 +1158,20 @@ msgstr ""
 #
 # File: /usr/core/src/www/crash_reporter.php, line: 269
 msgid "A short problem description or steps to reproduce."
-msgstr ""
+msgstr "Короткий опис проблеми або кроки для відтворення."
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SnapshotsController.php, line: 143
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SnapshotsController.php, line: 173
 msgid "A snapshot already exists by this name"
-msgstr ""
+msgstr "Знімок з такою назвою вже існує"
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/OpenVPN/OpenVPN.php, line: 138
 msgid "A token lifetime requires a non zero Renegotiate time."
-msgstr ""
+msgstr "Час життя токена вимагає ненульового часу перепогодження."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Firewall/Filter.php, line: 106
 msgid "A track interface is only allowed without an external prefix."
-msgstr ""
+msgstr "Інтерфейс відстеження дозволений лише без зовнішнього префікса."
 #
 # File: /usr/core/src/www/diag_authentication.php, line: 45
 msgid "A username and password must be specified."
@@ -3273,7 +3273,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/systemactivity.volt, line: 111
 msgid "C"
-msgstr ""
+msgstr "C"
 #
 # File: /usr/plugins/www/c-icap/src/etc/inc/plugins.inc.d/cicap.inc, line: 40
 msgid "C-ICAP server"
@@ -4446,7 +4446,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 907
 msgid "Connectivity"
-msgstr ""
+msgstr "Підключення"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 932
 msgid "Console"
@@ -4633,7 +4633,7 @@ msgstr "Створено"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/index.volt, line: 173
 msgid "Credential"
-msgstr ""
+msgstr "Облікові дані"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 511
 msgid "Cron Jobs"
@@ -4706,7 +4706,7 @@ msgstr ""
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 256
 msgid "Czech"
-msgstr ""
+msgstr "Чеська"
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 363
 msgid "DB Summary Counter"
@@ -4869,7 +4869,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/health.volt, line: 240
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/alias.volt, line: 811
 msgid "Days"
-msgstr ""
+msgstr "Дні"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1242
 msgid "Dead Peer Detection"
@@ -5144,7 +5144,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 1114
 msgid "Development"
-msgstr ""
+msgstr "Розробка"
 #
 # File: /usr/core/src/www/crash_reporter.php, line: 227
 msgid "Development deployment is configured so crash reports cannot be sent."
@@ -5204,7 +5204,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_states.volt, line: 223
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/spd.volt, line: 120
 msgid "Dir"
-msgstr ""
+msgstr "Каталог"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 928
 msgid ""
@@ -5442,11 +5442,11 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 1060
 msgid "Disallow"
-msgstr ""
+msgstr "Заборонити"
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 160
 msgid "Discard"
-msgstr ""
+msgstr "Відкинути"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/sessions.volt, line: 49
 msgid "Disconnected"
@@ -5467,12 +5467,12 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 3210
 msgid "Diversity"
-msgstr ""
+msgstr "Різноманітність"
 #
 # File: /usr/core/src/www/services_dnsmasq.php, line: 193
 # File: /usr/core/src/www/services_dnsmasq.php, line: 216
 msgid "Dnsmasq"
-msgstr ""
+msgstr "Dnsmasq"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 1080
 msgid ""
@@ -5821,7 +5821,7 @@ msgstr ""
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 531
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/statistics.volt, line: 226
 msgid "Downtime"
-msgstr ""
+msgstr "Час простою"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api/OverviewController.php, line: 66
 msgid "Driver"
@@ -6667,7 +6667,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/stats.volt, line: 62
 msgid "Elapsed"
-msgstr ""
+msgstr "Минуло"
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Base/FieldTypes/EmailField.php, line: 49
 msgid "Email address is invalid."
@@ -7043,7 +7043,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/DHCPv6/leases.volt, line: 187
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/DHCPv6/leases.volt, line: 210
 msgid "End"
-msgstr ""
+msgstr "Кінець"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 772
 msgid "End (%)"
@@ -7067,7 +7067,7 @@ msgstr ""
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 253
 msgid "English"
-msgstr ""
+msgstr "Англійська"
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 522
 msgid ""
@@ -7607,7 +7607,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 711
 msgid "Evaluations"
-msgstr ""
+msgstr "Оцінки"
 #
 # File: /usr/core/src/www/system_authservers.php, line: 755
 # File: /usr/core/src/www/system_authservers.php, line: 764
@@ -7840,7 +7840,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/index.volt, line: 183
 msgid "Fileid"
-msgstr ""
+msgstr "ID файлу"
 #
 # File: /usr/core/src/www/services_opendns.php, line: 144
 msgid "Filter DNS requests using OpenDNS"
@@ -7961,11 +7961,11 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 992
 msgid "Flavour"
-msgstr ""
+msgstr "Варіант"
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Base/Menu/MenuSystem.php, line: 306
 msgid "Floating"
-msgstr ""
+msgstr "Плаваючий"
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 751
 msgid "Floating rules"
@@ -7992,7 +7992,7 @@ msgstr "Потік"
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/alias_util.volt, line: 187
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/TrafficShaper/index.volt, line: 100
 msgid "Flush"
-msgstr ""
+msgstr "Очистити"
 #
 # File: /usr/core/src/www/diag_backup.php, line: 589
 msgid "Flush (full) local configuration history."
@@ -8107,7 +8107,7 @@ msgstr ""
 #
 # File: /usr/plugins/dns/dnscrypt-proxy/src/opnsense/mvc/app/views/OPNsense/Dnscryptproxy/general.volt, line: 31
 msgid "Forwarders"
-msgstr ""
+msgstr "Переспрямовувачі"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/controllers/OPNsense/Nginx/Api/SettingsController.php, line: 430
 msgid "Frame Ancestors"
@@ -8123,17 +8123,17 @@ msgstr ""
 #
 # File: /usr/plugins/net/freeradius/src/etc/inc/plugins.inc.d/freeradius.inc, line: 56
 msgid "Freeradius"
-msgstr ""
+msgstr "Freeradius"
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 257
 msgid "French"
-msgstr ""
+msgstr "Французька"
 #
 # File: /usr/core/src/www/firewall_schedule.php, line: 34
 # File: /usr/core/src/www/firewall_schedule_edit.php, line: 78
 # File: /usr/core/src/www/firewall_schedule_edit.php, line: 815
 msgid "Fri"
-msgstr ""
+msgstr "П'ят"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 839
 msgid "From date"
@@ -8218,7 +8218,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_ntpd_gps.php, line: 320
 msgid "Garmin"
-msgstr ""
+msgstr "Garmin"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Routing/Api/SettingsController.php, line: 221
 #, php-format
@@ -8338,7 +8338,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_ntpd_gps.php, line: 318
 msgid "Generic"
-msgstr ""
+msgstr "Загальний"
 #
 # File: /usr/core/src/www/interfaces.php, line: 1901
 msgid "Generic configuration"
@@ -8354,11 +8354,11 @@ msgstr ""
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 258
 msgid "German"
-msgstr ""
+msgstr "Німецька"
 #
 # File: /usr/plugins/sysutils/git-backup/src/opnsense/mvc/app/library/OPNsense/Backup/Git.php, line: 101
 msgid "Git"
-msgstr ""
+msgstr "Git"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/not_found.volt, line: 8
 msgid "Go back to previous page"
@@ -8390,7 +8390,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/health.volt, line: 499
 msgid "Granularity"
-msgstr ""
+msgstr "Деталізація"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/traffic.volt, line: 526
 msgid "Graph"
@@ -8445,7 +8445,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 477
 msgid "Groupname"
-msgstr ""
+msgstr "Ім'я групи"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Kea/dhcpv4.volt, line: 114
 msgid "HA Peers"
@@ -8546,7 +8546,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Wireguard/diagnostics.volt, line: 89
 msgid "Handshake"
-msgstr ""
+msgstr "Рукостискання"
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 294
 msgid "Hardware"
@@ -8633,7 +8633,7 @@ msgstr ""
 # File: /usr/core/src/www/system_advanced_misc.php, line: 443
 # File: /usr/core/src/www/system_advanced_misc.php, line: 462
 msgid "Hiadaptive"
-msgstr ""
+msgstr "Високоадаптивний"
 #
 # File: /usr/plugins/net/relayd/src/opnsense/mvc/app/views/OPNsense/Relayd/status.volt, line: 464
 msgid "Hide table column"
@@ -8718,11 +8718,11 @@ msgstr ""
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 196
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 246
 msgid "Hit"
-msgstr ""
+msgstr "Попадання"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1196
 msgid "Hold"
-msgstr ""
+msgstr "Утримувати"
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 416
 msgid "Hold count"
@@ -8785,7 +8785,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/vip.volt, line: 146
 msgid "Hostid"
-msgstr ""
+msgstr "ID хоста"
 #
 # File: /usr/plugins/www/web-proxy-sso/src/opnsense/mvc/app/controllers/OPNsense/ProxySSO/Api/ServiceController.php, line: 177
 msgid "Hostname doesn't resolved to IP."
@@ -8977,7 +8977,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_ntpd.php, line: 264
 msgid "Iburst"
-msgstr ""
+msgstr "Iburst"
 #
 # File: /usr/plugins/security/stunnel/src/etc/inc/plugins.inc.d/stunnel.inc, line: 54
 msgid "Identd (stunnel)"
@@ -8989,7 +8989,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces.php, line: 1864
 # File: /usr/core/src/www/interfaces_assign.php, line: 406
 msgid "Identifier"
-msgstr ""
+msgstr "Ідентифікатор"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2860
 msgid "Identity Association"
@@ -9303,7 +9303,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/sad.volt, line: 85
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/spd.volt, line: 128
 msgid "Ikeid"
-msgstr ""
+msgstr "IKE ID"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/controllers/OPNsense/Nginx/Api/SettingsController.php, line: 415
 msgid "Image Source"
@@ -9391,7 +9391,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 197
 msgid "Incomplete"
-msgstr ""
+msgstr "Неповний"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 313
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 323
@@ -9402,7 +9402,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 3292
 msgid "Indoor"
-msgstr ""
+msgstr "Внутрішній"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 719
 msgid "Infinitely resolve remote server"
@@ -9510,7 +9510,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 647
 msgid "Inspect"
-msgstr ""
+msgstr "Перевірити"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 456
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 584
@@ -9535,7 +9535,7 @@ msgstr "Встановлено"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_states.volt, line: 222
 msgid "Int"
-msgstr ""
+msgstr "Ціле"
 #
 # File: /usr/plugins/net/upnp/src/www/status_upnp.php, line: 70
 msgid "Int. Port"
@@ -9694,7 +9694,7 @@ msgstr ""
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/validations.volt, line: 103
 # File: /usr/plugins/sysutils/puppet-agent/src/opnsense/mvc/app/views/OPNsense/PuppetAgent/index.volt, line: 52
 msgid "Introduction"
-msgstr ""
+msgstr "Вступ"
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Base/FieldTypes/Base64Field.php, line: 43
 msgid "Invalid Base64-encoded string."
@@ -9853,7 +9853,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/health.volt, line: 505
 msgid "Inverse"
-msgstr ""
+msgstr "Обернений"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/reverse_proxy.volt, line: 477
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 619
@@ -9863,7 +9863,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_scrub_edit.php, line: 348
 # File: /usr/core/src/www/firewall_scrub_edit.php, line: 446
 msgid "Invert"
-msgstr ""
+msgstr "Інвертувати"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 225
 msgid ""
@@ -9899,7 +9899,7 @@ msgstr ""
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 259
 msgid "Italian"
-msgstr ""
+msgstr "Італійська"
 #
 # File: /usr/plugins/net-mgmt/zabbix-agent/src/opnsense/mvc/app/views/OPNsense/ZabbixAgent/index.volt, line: 153
 msgid "Item Key Aliases"
@@ -9916,7 +9916,7 @@ msgstr ""
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 260
 msgid "Japanese"
-msgstr ""
+msgstr "Японська"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Cron/index.volt, line: 96
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/packetcapture.volt, line: 219
@@ -10012,7 +10012,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 2917
 msgid "Keyinfo"
-msgstr ""
+msgstr "Інформація про ключ"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/OpenVPN/status.volt, line: 38
 msgid "Kill"
@@ -10020,7 +10020,7 @@ msgstr "Вбити"
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 261
 msgid "Korean"
-msgstr ""
+msgstr "Корейська"
 #
 # File: /usr/core/src/www/interfaces.php, line: 1491
 msgid "L2TP"
@@ -10184,7 +10184,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/scripts/routes/gateway_status.php, line: 58
 # File: /usr/core/src/opnsense/scripts/routes/gateway_status.php, line: 64
 msgid "Latency"
-msgstr ""
+msgstr "Затримка"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/layer4.volt, line: 110
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/layer4.volt, line: 117
@@ -10314,7 +10314,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/TrafficShaper/statistics.volt, line: 295
 msgid "Legend"
-msgstr ""
+msgstr "Легенда"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3194
 msgid ""
@@ -10427,7 +10427,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 161
 msgid "Linkstate"
-msgstr ""
+msgstr "Стан з'єднання"
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Base/FieldTypes/CSVListField.php, line: 72
 msgid "List validation error."
@@ -24655,7 +24655,7 @@ msgstr ""
 # File: /usr/lang/src/controllers.php, line: 812
 # File: /usr/lang/src/models.php, line: 213
 msgid "Access"
-msgstr ""
+msgstr "Доступ"
 #
 # File: /usr/lang/src/controllers.php, line: 813
 msgid "Access Control List"
@@ -24698,7 +24698,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 822
 msgid "Accounting"
-msgstr ""
+msgstr "Облік"
 #
 # File: /usr/lang/src/controllers.php, line: 823
 msgid "Accounting Pool"
@@ -24756,7 +24756,7 @@ msgstr ""
 # File: /usr/lang/src/controllers.php, line: 829
 # File: /usr/lang/src/dashboard.php, line: 32
 msgid "Action"
-msgstr ""
+msgstr "Дія"
 #
 # File: /usr/lang/src/controllers.php, line: 830
 msgid "Action required"
@@ -25154,7 +25154,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces.php, line: 2910
 # File: /usr/lang/src/controllers.php, line: 913
 msgid "Algorithm"
-msgstr ""
+msgstr "Алгоритм"
 #
 # File: /usr/lang/src/controllers.php, line: 914
 msgid "Alias Item Key"
@@ -25480,7 +25480,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 985
 msgid "Applications"
-msgstr ""
+msgstr "Додатки"
 #
 # File: /usr/lang/src/controllers.php, line: 986
 msgid "Applications other than daemons"
@@ -25493,7 +25493,7 @@ msgstr ""
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/ospf6.volt, line: 161
 # File: /usr/lang/src/controllers.php, line: 987
 msgid "Area"
-msgstr ""
+msgstr "Область"
 #
 # File: /usr/lang/src/controllers.php, line: 988
 msgid "Area Range"
@@ -25512,7 +25512,7 @@ msgstr ""
 # File: /usr/plugins/net-mgmt/nrpe/src/opnsense/mvc/app/views/OPNsense/Nrpe/general.volt, line: 53
 # File: /usr/lang/src/controllers.php, line: 991
 msgid "Arguments"
-msgstr ""
+msgstr "Аргументи"
 #
 # File: /usr/lang/src/controllers.php, line: 992
 msgid "ArtFiles DNS API"
@@ -25594,7 +25594,7 @@ msgstr ""
 # File: /usr/core/src/www/system_authservers.php, line: 822
 # File: /usr/lang/src/controllers.php, line: 1008
 msgid "Authentication"
-msgstr ""
+msgstr "Автентифікація"
 #
 # File: /usr/plugins/security/tor/src/opnsense/mvc/app/views/OPNsense/Tor/general.volt, line: 205
 # File: /usr/lang/src/controllers.php, line: 1009
@@ -25696,7 +25696,7 @@ msgstr ""
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 869
 # File: /usr/lang/src/controllers.php, line: 1031
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматичний"
 #
 # File: /usr/lang/src/controllers.php, line: 1032
 msgid "Automatic Index"
@@ -25844,7 +25844,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces_ppps_edit.php, line: 789
 # File: /usr/lang/src/controllers.php, line: 1065
 msgid "Bandwidth"
-msgstr ""
+msgstr "Пропускна здатність"
 #
 # File: /usr/lang/src/controllers.php, line: 1066
 msgid "Bandwidth Metric"
@@ -25865,7 +25865,7 @@ msgstr ""
 # File: /usr/core/src/www/status_habackup.php, line: 203
 # File: /usr/lang/src/controllers.php, line: 1070
 msgid "Base"
-msgstr ""
+msgstr "База"
 #
 # File: /usr/core/src/www/system_authservers.php, line: 740
 # File: /usr/lang/src/controllers.php, line: 1071
@@ -26092,7 +26092,7 @@ msgstr ""
 # File: /usr/lang/src/controllers.php, line: 1120
 # File: /usr/lang/src/models.php, line: 345
 msgid "Bridge"
-msgstr ""
+msgstr "Міст"
 #
 # File: /usr/lang/src/controllers.php, line: 1121
 msgid "Brief description for reference."
@@ -26218,7 +26218,7 @@ msgstr ""
 # File: /usr/lang/src/controllers.php, line: 1149
 # File: /usr/lang/src/dashboard.php, line: 43
 msgid "CPU"
-msgstr ""
+msgstr "Процесор"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 700
 # File: /usr/lang/src/controllers.php, line: 1150
@@ -26383,7 +26383,7 @@ msgstr ""
 # File: /usr/lang/src/controllers.php, line: 1185
 # File: /usr/lang/src/models.php, line: 445
 msgid "Categories"
-msgstr ""
+msgstr "Категорії"
 #
 # File: /usr/lang/src/controllers.php, line: 1186
 msgid "Cert Refresh Delay"
@@ -26450,7 +26450,7 @@ msgstr ""
 # File: /usr/lang/src/controllers.php, line: 1198
 # File: /usr/lang/src/models.php, line: 447
 msgid "Certificates"
-msgstr ""
+msgstr "Сертифікати"
 #
 # File: /usr/lang/src/controllers.php, line: 1199
 msgid "Cessation of Operation"
@@ -26925,7 +26925,7 @@ msgstr ""
 # File: /usr/core/src/www/system_advanced_admin.php, line: 852
 # File: /usr/lang/src/controllers.php, line: 1298
 msgid "Ciphers"
-msgstr ""
+msgstr "Шифри"
 #
 # File: /usr/lang/src/controllers.php, line: 1299
 msgid "Ciphersuites"
@@ -27066,7 +27066,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1328
 msgid "Color"
-msgstr ""
+msgstr "Колір"
 #
 # File: /usr/lang/src/controllers.php, line: 1329
 msgid "Comma-separated list of DNS servers to use on the peer."
@@ -27120,7 +27120,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1339
 msgid "Comparison"
-msgstr ""
+msgstr "Порівняння"
 #
 # File: /usr/core/src/www/interfaces_ppps_edit.php, line: 722
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 1038
@@ -27128,7 +27128,7 @@ msgstr ""
 # File: /usr/lang/src/controllers.php, line: 1340
 # File: /usr/lang/src/wizards.php, line: 79
 msgid "Compression"
-msgstr ""
+msgstr "Стиснення"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1261
 # File: /usr/lang/src/controllers.php, line: 1341
@@ -27389,7 +27389,7 @@ msgstr ""
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 318
 # File: /usr/lang/src/controllers.php, line: 1399
 msgid "Cost"
-msgstr ""
+msgstr "Вартість"
 #
 # File: /usr/lang/src/controllers.php, line: 1400
 msgid "Cost (when demoted)"
@@ -27488,7 +27488,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1421
 msgid "Customer"
-msgstr ""
+msgstr "Клієнт"
 #
 # File: /usr/lang/src/controllers.php, line: 1422
 msgid "Customer number"
@@ -28493,7 +28493,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_scrub_edit.php, line: 315
 # File: /usr/lang/src/controllers.php, line: 1593
 msgid "Direction"
-msgstr ""
+msgstr "Напрямок"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/reverse_proxy.volt, line: 431
 # File: /usr/lang/src/controllers.php, line: 1594
@@ -30946,7 +30946,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2118
 msgid "Endpoint"
-msgstr ""
+msgstr "Кінцева точка"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Wireguard/general.volt, line: 297
 # File: /usr/lang/src/controllers.php, line: 2119
@@ -31708,7 +31708,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2267
 msgid "Exclusion"
-msgstr ""
+msgstr "Виключення"
 #
 # File: /usr/lang/src/controllers.php, line: 2268
 msgid "Exclusion List"
@@ -48175,7 +48175,7 @@ msgstr "Клієнт"
 # File: /usr/lang/src/dashboard.php, line: 51
 # File: /usr/lang/src/models.php, line: 478
 msgid "Clients"
-msgstr ""
+msgstr "Клієнти"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api/OverviewController.php, line: 83
 # File: /usr/lang/src/dashboard.php, line: 52
@@ -48242,7 +48242,7 @@ msgstr ""
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 242
 # File: /usr/lang/src/dashboard.php, line: 73
 msgid "Expired"
-msgstr ""
+msgstr "Закінчився"
 #
 # File: /usr/lang/src/dashboard.php, line: 74
 msgid "Expires:"
@@ -49491,7 +49491,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 212
 msgid "Accept"
-msgstr ""
+msgstr "Прийняти"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/reverse_proxy.volt, line: 469
 # File: /usr/lang/src/models.php, line: 214
@@ -49516,7 +49516,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_stats.volt, line: 108
 # File: /usr/lang/src/models.php, line: 220
 msgid "Actions"
-msgstr ""
+msgstr "Дії"
 #
 # File: /usr/lang/src/models.php, line: 221
 msgid "Active timeout needs to be an integer value between 1 and 86400"
@@ -49524,7 +49524,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 223
 msgid "Activity"
-msgstr ""
+msgstr "Активність"
 #
 # File: /usr/lang/src/models.php, line: 224
 msgid "AdAway List"
@@ -49552,7 +49552,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 230
 msgid "Administration"
-msgstr ""
+msgstr "Адміністрування"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 691
 # File: /usr/plugins/net-mgmt/zabbix-agent/src/opnsense/mvc/app/views/OPNsense/ZabbixAgent/index.volt, line: 150
@@ -49594,7 +49594,7 @@ msgstr "Розширені"
 #
 # File: /usr/lang/src/models.php, line: 233
 msgid "Agent"
-msgstr ""
+msgstr "Агент"
 #
 # File: /usr/lang/src/models.php, line: 235
 msgid "Aho-Corasick"
@@ -49614,12 +49614,12 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IDS/index.volt, line: 928
 # File: /usr/lang/src/models.php, line: 238
 msgid "Alert"
-msgstr ""
+msgstr "Сповіщення"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IDS/index.volt, line: 716
 # File: /usr/lang/src/models.php, line: 239
 msgid "Alerts"
-msgstr ""
+msgstr "Сповіщення"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/pf.inc, line: 245
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Firewall/Api/FilterBaseController.php, line: 94
@@ -49650,7 +49650,7 @@ msgstr ""
 # File: /usr/core/src/www/services_dnsmasq_edit.php, line: 226
 # File: /usr/lang/src/models.php, line: 240
 msgid "Aliases"
-msgstr ""
+msgstr "Псевдоніми"
 #
 # File: /usr/lang/src/models.php, line: 241
 msgid "Aliyun.com (UNSUPPORTED)"
@@ -49682,7 +49682,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 247
 msgid "Allow"
-msgstr ""
+msgstr "Дозволити"
 #
 # File: /usr/lang/src/models.php, line: 248
 msgid "Allow Access"
@@ -49702,7 +49702,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 252
 msgid "Always"
-msgstr ""
+msgstr "Завжди"
 #
 # File: /usr/lang/src/models.php, line: 253
 msgid "Alwaysdata.com"
@@ -49742,7 +49742,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 262
 msgid "And"
-msgstr ""
+msgstr "І"
 #
 # File: /usr/lang/src/models.php, line: 263
 msgid "Annoy delay time must be between 10 and 360 seconds."
@@ -49785,7 +49785,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 272
 msgid "Archives"
-msgstr ""
+msgstr "Архіви"
 #
 # File: /usr/lang/src/models.php, line: 273
 msgid "Array Networks AG"
@@ -49801,7 +49801,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 276
 msgid "Assignments"
-msgstr ""
+msgstr "Призначення"
 #
 # File: /usr/lang/src/models.php, line: 277
 msgid "At least one interface must be selected"
@@ -49813,7 +49813,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 279
 msgid "Audit"
-msgstr ""
+msgstr "Аудит"
 #
 # File: /usr/core/src/www/firewall_schedule.php, line: 35
 # File: /usr/core/src/www/firewall_schedule_edit.php, line: 79
@@ -49827,7 +49827,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 283
 msgid "Auth"
-msgstr ""
+msgstr "Автентифікація"
 #
 # File: /usr/lang/src/models.php, line: 284
 msgid "Authelia"
@@ -49863,7 +49863,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 291
 msgid "Automation"
-msgstr ""
+msgstr "Автоматизація"
 #
 # File: /usr/lang/src/models.php, line: 293
 msgid "Azure"
@@ -49914,7 +49914,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 307
 msgid "Backups"
-msgstr ""
+msgstr "Резервні копії"
 #
 # File: /usr/lang/src/models.php, line: 308
 msgid "Bandwidth metric should be either bit/s, kbit/s, Mbit/s or Gbit/s"
@@ -49932,7 +49932,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces.php, line: 2730
 # File: /usr/lang/src/models.php, line: 311
 msgid "Basic"
-msgstr ""
+msgstr "Базовий"
 #
 # File: /usr/lang/src/models.php, line: 312
 msgid "Basic Rule"
@@ -49966,7 +49966,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 795
 # File: /usr/lang/src/models.php, line: 320
 msgid "Block"
-msgstr ""
+msgstr "Блок"
 #
 # File: /usr/lang/src/models.php, line: 321
 msgid "Block Request"
@@ -50051,7 +50051,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 341
 msgid "Boot"
-msgstr ""
+msgstr "Завантаження"
 #
 # File: /usr/lang/src/models.php, line: 342
 msgid "Border Gateway Protocol (BGP)"
@@ -50063,7 +50063,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces.php, line: 3581
 # File: /usr/lang/src/models.php, line: 343
 msgid "Both"
-msgstr ""
+msgstr "Обидва"
 #
 # File: /usr/lang/src/models.php, line: 344
 msgid "Both throttling parameters should either be filled or empty"
@@ -50724,7 +50724,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/log.volt, line: 217
 # File: /usr/lang/src/models.php, line: 516
 msgid "Critical"
-msgstr ""
+msgstr "Критичний"
 #
 # File: /usr/core/src/etc/inc/interfaces.inc, line: 116
 # File: /usr/lang/src/models.php, line: 517
@@ -51087,7 +51087,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 609
 msgid "Documentation"
-msgstr ""
+msgstr "Документація"
 #
 # File: /usr/lang/src/models.php, line: 610
 msgid ""
@@ -51262,7 +51262,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/log.volt, line: 215
 # File: /usr/lang/src/models.php, line: 656
 msgid "Emergency"
-msgstr ""
+msgstr "Аварійний"
 #
 # File: /usr/lang/src/models.php, line: 658
 msgid "Encode whitespaces (RFC1738)"
@@ -51349,7 +51349,7 @@ msgstr "Виконати"
 #
 # File: /usr/lang/src/models.php, line: 677
 msgid "Existence"
-msgstr ""
+msgstr "Існування"
 #
 # File: /usr/lang/src/models.php, line: 678
 msgid "Existing cookie value"
@@ -51369,7 +51369,7 @@ msgstr ""
 #
 # File: /usr/lang/src/models.php, line: 683
 msgid "Extended"
-msgstr ""
+msgstr "Розширений"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/alias.volt, line: 637
 # File: /usr/lang/src/models.php, line: 684
