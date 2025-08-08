@@ -5410,7 +5410,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_usermanager.php, line: 1057
 msgid "Disabled User"
-msgstr ""
+msgstr "Disabled користувач"
 #
 # File: /usr/core/src/www/firewall_nat.php, line: 552
 msgid "Disabled linked rule"
@@ -5423,7 +5423,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_nat.php, line: 548
 # File: /usr/core/src/www/firewall_nat_out.php, line: 556
 msgid "Disabled rule"
-msgstr ""
+msgstr "Disabled правило"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1181
 msgid "Disables the IKEv2 MOBIKE protocol defined by RFC 4555"
@@ -5464,7 +5464,7 @@ msgstr ""
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 834
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 865
 msgid "Distinguished name"
-msgstr ""
+msgstr "Distinguished назва"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3210
 msgid "Diversity"
@@ -5702,7 +5702,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overrides.volt, line: 188
 # File: /usr/core/src/www/services_dnsmasq.php, line: 507
 msgid "Domain Overrides"
-msgstr ""
+msgstr "Domain Overrides"
 #
 # File: /usr/core/src/www/services_dnsmasq_edit.php, line: 201
 msgid "Domain of the host"
@@ -5756,7 +5756,7 @@ msgstr ""
 #
 # File: /usr/plugins/www/squid/src/opnsense/mvc/app/views/OPNsense/Proxy/index.volt, line: 504
 msgid "Download ACLs"
-msgstr ""
+msgstr "завантажити Acls"
 #
 # File: /usr/plugins/www/squid/src/opnsense/mvc/app/views/OPNsense/Proxy/index.volt, line: 498
 msgid "Download ACLs & Apply"
@@ -5764,7 +5764,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/export.volt, line: 130
 msgid "Download All"
-msgstr ""
+msgstr "завантажити All"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Trust/crl.volt, line: 69
 msgid "Download CRL when available"
@@ -5772,7 +5772,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/export.volt, line: 129
 msgid "Download Config"
-msgstr ""
+msgstr "завантажити конфігурація"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/index.volt, line: 38
 msgid "Download NAXSI Rules"
@@ -5802,7 +5802,7 @@ msgstr ""
 #
 # File: /usr/plugins/security/clamav/src/opnsense/mvc/app/views/OPNsense/ClamAV/general.volt, line: 31
 msgid "Download signatures"
-msgstr ""
+msgstr "завантажити Signatures"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/backup_history.volt, line: 245
 msgid "Download this backup"
@@ -5810,7 +5810,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/igmp-proxy/src/www/services_igmpproxy_edit.php, line: 186
 msgid "Downstream Interface"
-msgstr ""
+msgstr "Downstream інтерфейс"
 #
 # File: /usr/plugins/net/igmp-proxy/src/www/services_igmpproxy_edit.php, line: 193
 msgid ""
@@ -5830,11 +5830,11 @@ msgstr "Драйвер"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/TrafficShaper/statistics.volt, line: 243
 msgid "Drop Bytes"
-msgstr ""
+msgstr "Drop Bytes"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/TrafficShaper/statistics.volt, line: 242
 msgid "Drop Pkt"
-msgstr ""
+msgstr "Drop Pkt"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 380
 msgid "Drop expired vouchers"
@@ -5842,7 +5842,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IDS/index.volt, line: 845
 msgid "Drop selected"
-msgstr ""
+msgstr "Drop Selected"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/models/OPNsense/Caddy/Caddy.php, line: 61
 #, php-format
@@ -5870,7 +5870,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 760
 msgid "Dynamic gateway"
-msgstr ""
+msgstr "Dynamic шлюз"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2031
 msgid "Dynamic gateway policy"
@@ -5903,7 +5903,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 3496
 msgid "EAP Method"
-msgstr ""
+msgstr "Eap Method"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3509
 msgid "EAP Phase 2 Authentication"
@@ -5919,7 +5919,7 @@ msgstr ""
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 1171
 msgid "EFI Console"
-msgstr ""
+msgstr "Efi Console"
 #
 # File: /usr/core/src/www/system_advanced_network.php, line: 420
 msgid ""
@@ -5930,7 +5930,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/status_wireless.php, line: 131
 msgid "ERP"
-msgstr ""
+msgstr "Erp"
 #
 # File: /usr/core/src/www/wizard.php, line: 88
 msgid "ERROR: Could not find wizard file."
@@ -5956,12 +5956,12 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules.php, line: 73
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 981
 msgid "Echo Reply"
-msgstr ""
+msgstr "Echo Reply"
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 72
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 980
 msgid "Echo Request"
-msgstr ""
+msgstr "Echo Request"
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 96
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1022
@@ -5975,7 +5975,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 528
 msgid "Edge ports"
-msgstr ""
+msgstr "Edge Ports"
 #
 # File: /usr/plugins/net/relayd/src/opnsense/mvc/app/views/OPNsense/Relayd/index.volt, line: 276
 # File: /usr/plugins/net/relayd/src/opnsense/mvc/app/views/OPNsense/Relayd/index.volt, line: 299
@@ -6017,7 +6017,7 @@ msgstr "Редагувати"
 # File: /usr/plugins/dns/bind/src/opnsense/mvc/app/views/OPNsense/Bind/general.volt, line: 194
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/acl.volt, line: 115
 msgid "Edit ACL"
-msgstr ""
+msgstr "редагувати Acl"
 #
 # File: /usr/plugins/security/tor/src/opnsense/mvc/app/views/OPNsense/Tor/general.volt, line: 292
 msgid "Edit ACL Entry"
@@ -6029,7 +6029,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/freeradius/src/opnsense/mvc/app/views/OPNsense/Freeradius/user.volt, line: 175
 msgid "Edit AVPair"
-msgstr ""
+msgstr "редагувати Avpair"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/reverse_proxy.volt, line: 587
 msgid "Edit Access List"
@@ -6038,7 +6038,7 @@ msgstr ""
 # File: /usr/plugins/dns/ddclient/src/opnsense/mvc/app/views/OPNsense/DynDNS/index.volt, line: 155
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/accounts.volt, line: 387
 msgid "Edit Account"
-msgstr ""
+msgstr "редагувати обліковий запис"
 #
 # File: /usr/plugins/mail/postfix/src/opnsense/mvc/app/views/OPNsense/Postfix/address.volt, line: 86
 msgid "Edit Address Rewriting"
@@ -6051,11 +6051,11 @@ msgstr ""
 # File: /usr/plugins/net-mgmt/zabbix-agent/src/opnsense/mvc/app/views/OPNsense/ZabbixAgent/index.volt, line: 231
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/alias.volt, line: 709
 msgid "Edit Alias"
-msgstr ""
+msgstr "редагувати Alias"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/actions.volt, line: 257
 msgid "Edit Automation"
-msgstr ""
+msgstr "редагувати Automation"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 1302
 msgid "Edit Backend Pool"
@@ -6071,7 +6071,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/OpenVPN/cso.volt, line: 90
 msgid "Edit CSO"
-msgstr ""
+msgstr "редагувати Cso"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/index.volt, line: 827
 msgid "Edit Cache Path"
