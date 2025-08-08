@@ -1287,7 +1287,7 @@ msgstr ""
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 118
 # File: /usr/core/src/www/services_dnsmasq_edit.php, line: 83
 msgid "A valid IP address must be specified."
-msgstr ""
+msgstr "Необхідно вказати дійсну IP-адресу."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 237
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 193
@@ -1302,7 +1302,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 839
 msgid "A valid IPv4 address must be specified."
-msgstr ""
+msgstr "Необхідно вказати дійсну IPv4-адресу."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 108
 msgid ""
@@ -1328,12 +1328,12 @@ msgstr ""
 # File: /usr/core/src/www/interfaces.php, line: 865
 # File: /usr/core/src/www/services_dhcpv6_edit.php, line: 91
 msgid "A valid IPv6 address must be specified."
-msgstr ""
+msgstr "Необхідно вказати дійсну IPv6-адресу."
 #
 # File: /usr/core/src/www/interfaces.php, line: 934
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 121
 msgid "A valid MAC address must be specified."
-msgstr ""
+msgstr "Необхідно вказати дійсну MAC-адресу."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 278
 msgid "A valid MTU value must be specified."
@@ -1341,11 +1341,11 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 922
 msgid "A valid PPTP local IP address must be specified."
-msgstr ""
+msgstr "Необхідно вказати дійсну локальну IP-адресу PPTP."
 #
 # File: /usr/core/src/www/interfaces.php, line: 928
 msgid "A valid PPTP remote IP address must be specified."
-msgstr ""
+msgstr "Необхідно вказати дійсну віддалену IP-адресу PPTP."
 #
 # File: /usr/core/src/www/interfaces.php, line: 925
 msgid "A valid PPTP subnet bit count must be specified."
