@@ -25043,7 +25043,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 888
 msgid "Address(es)"
-msgstr ""
+msgstr "Адреса(es)"
 #
 # File: /usr/lang/src/controllers.php, line: 889
 msgid ""
@@ -25067,7 +25067,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 892
 msgid "Adjust the server's weight relative to other servers."
-msgstr ""
+msgstr "Adjust the сервер's weight relative to other серверs."
 #
 # File: /usr/lang/src/controllers.php, line: 893
 msgid "Admin Password"
@@ -25109,11 +25109,11 @@ msgstr ""
 # File: /usr/core/src/www/services_router_advertisements.php, line: 373
 # File: /usr/lang/src/controllers.php, line: 902
 msgid "Advertise Default Gateway"
-msgstr ""
+msgstr "Advertise Default Шлюз"
 #
 # File: /usr/lang/src/controllers.php, line: 903
 msgid "Advertise Default Gateway Metric"
-msgstr ""
+msgstr "Advertise Default Шлюз Metric"
 #
 # File: /usr/lang/src/controllers.php, line: 904
 msgid "Advertise Protocols (ALPN)"
@@ -25125,7 +25125,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 906
 msgid "After this idle time, the client gets disconnected."
-msgstr ""
+msgstr "After this idle time, the клієнт gets disconnected."
 #
 # File: /usr/lang/src/controllers.php, line: 907
 msgid "Agent Information"
@@ -25279,7 +25279,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 940
 msgid "Allow connections from this client"
-msgstr ""
+msgstr "Allow connections from this клієнт"
 #
 # File: /usr/lang/src/controllers.php, line: 941
 msgid "Allow inbound"
@@ -25287,7 +25287,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 942
 msgid "Allow interface subnets"
-msgstr ""
+msgstr "Allow інтерфейс subnets"
 #
 # File: /usr/lang/src/controllers.php, line: 943
 msgid ""
@@ -25336,11 +25336,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 954
 msgid "Allowed MAC addresses"
-msgstr ""
+msgstr "Allowed MAC-адресаes"
 #
 # File: /usr/lang/src/controllers.php, line: 955
 msgid "Allowed Networks"
-msgstr ""
+msgstr "Allowed Мережаs"
 #
 # File: /usr/lang/src/controllers.php, line: 956
 msgid "Allowed SSL ports"
@@ -25356,7 +25356,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 959
 msgid "Allowed addresses"
-msgstr ""
+msgstr "Allowed адресаes"
 #
 # File: /usr/lang/src/controllers.php, line: 960
 msgid ""
@@ -25396,7 +25396,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 967
 msgid "Always Advertise Default Gateway"
-msgstr ""
+msgstr "Always Advertise Default Шлюз"
 #
 # File: /usr/lang/src/controllers.php, line: 968
 msgid "Always send accounting requests"
@@ -25433,7 +25433,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 974
 msgid "An optional source IP address for outgoing connections."
-msgstr ""
+msgstr "An optional source IP-адреса for outgoing connections."
 #
 # File: /usr/lang/src/controllers.php, line: 975
 msgid ""
@@ -25465,7 +25465,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 981
 msgid "Apcupsd Netserver IP Address"
-msgstr ""
+msgstr "Apcupsd Netserver IP-адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 982
 msgid "Append a HTTP header field with the specified name."
@@ -25544,7 +25544,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 997
 msgid "At least two interfaces must be selected."
-msgstr ""
+msgstr "At least two інтерфейсs must be selected."
 #
 # File: /usr/lang/src/controllers.php, line: 998
 msgid "Attempt to circumvent censorship."
@@ -25581,7 +25581,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1006
 msgid "Authenticate on the Server using a client certificate."
-msgstr ""
+msgstr "Authenticate on the Сервер using a client certificate."
 #
 # File: /usr/lang/src/controllers.php, line: 1007
 msgid "Authenticate using"
@@ -25666,7 +25666,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1024
 msgid "Authorized clients"
-msgstr ""
+msgstr "Authorized клієнтs"
 #
 # File: /usr/lang/src/controllers.php, line: 1025
 msgid "Auto HTTPS"
@@ -25749,11 +25749,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1041
 msgid "Avoid authentication for addresses and subnets in this list"
-msgstr ""
+msgstr "Avoid authentication for адресаes and subnets in this list"
 #
 # File: /usr/lang/src/controllers.php, line: 1042
 msgid "Avoid authentication for physical addresses in this list"
-msgstr ""
+msgstr "Avoid authentication for physical адресаes in this list"
 #
 # File: /usr/lang/src/controllers.php, line: 1043
 msgid ""
@@ -25861,7 +25861,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1069
 msgid "Banned host IP addresses"
-msgstr ""
+msgstr "Banned host IP-адресаes"
 #
 # File: /usr/core/src/www/status_habackup.php, line: 203
 # File: /usr/lang/src/controllers.php, line: 1070
@@ -25927,11 +25927,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1084
 msgid "Bind SMTP Client Address"
-msgstr ""
+msgstr "Bind SMTP Client Адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 1085
 msgid "Bind SMTP Client v6 Address"
-msgstr ""
+msgstr "Bind SMTP Client v6 Адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 1086
 msgid "Bind User"
@@ -25939,7 +25939,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1087
 msgid "Bind address"
-msgstr ""
+msgstr "Bind адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 1088
 msgid "Bind option pass-through"
@@ -25982,7 +25982,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1096
 msgid "Block Configuration Files"
-msgstr ""
+msgstr "Block Конфігурація Files"
 #
 # File: /usr/lang/src/controllers.php, line: 1097
 msgid "Block IPv6"
@@ -26109,7 +26109,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1124
 msgid "Broadcast Address"
-msgstr ""
+msgstr "Broadcast Адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 1125
 msgid "Buckets"
@@ -26614,7 +26614,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1231
 msgid "Choose a Firewall Alias for trusted proxies."
-msgstr ""
+msgstr "Choose a Брандмауер Alias for trusted proxies."
 #
 # File: /usr/lang/src/controllers.php, line: 1232
 msgid ""
@@ -26673,19 +26673,19 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1243
 msgid "Choose a name for this mailer configuration."
-msgstr ""
+msgstr "Choose a name for this mailer конфігурація."
 #
 # File: /usr/lang/src/controllers.php, line: 1244
 msgid "Choose a name for this resolver configuration."
-msgstr ""
+msgstr "Choose a name for this resolver конфігурація."
 #
 # File: /usr/lang/src/controllers.php, line: 1245
 msgid "Choose a optional description for this mailer configuration."
-msgstr ""
+msgstr "Choose a optional description for this mailer конфігурація."
 #
 # File: /usr/lang/src/controllers.php, line: 1246
 msgid "Choose a optional description for this resolver configuration."
-msgstr ""
+msgstr "Choose a optional description for this resolver конфігурація."
 #
 # File: /usr/lang/src/controllers.php, line: 1247
 msgid "Choose a persistence type."
@@ -26730,7 +26730,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1255
 msgid "Choose error messages to be included in this Public Service."
-msgstr ""
+msgstr "Choose error messages to be included in this Public Служба."
 #
 # File: /usr/lang/src/controllers.php, line: 1256
 msgid "Choose error messages."
@@ -26781,7 +26781,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1265
 msgid "Choose rules to be included in this Public Service."
-msgstr ""
+msgstr "Choose rules to be included in this Public Служба."
 #
 # File: /usr/lang/src/controllers.php, line: 1266
 msgid "Choose rules."
@@ -26793,7 +26793,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1268
 msgid "Choose the Internet Protocol this gateway uses."
-msgstr ""
+msgstr "Choose the Internet Protocol this шлюз uses."
 #
 # File: /usr/lang/src/controllers.php, line: 1269
 msgid ""
@@ -26811,7 +26811,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1271
 msgid "Choose the certificate the Radius service should use."
-msgstr ""
+msgstr "Choose the certificate the Radius служба should use."
 #
 # File: /usr/lang/src/controllers.php, line: 1272
 msgid ""
@@ -26824,7 +26824,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1274
 msgid "Choose the interface on which the port should be opened."
-msgstr ""
+msgstr "Choose the інтерфейс on which the port should be opened."
 #
 # File: /usr/lang/src/controllers.php, line: 1275
 msgid ""
@@ -26839,11 +26839,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1277
 msgid "Choose the type of client. Default Radius-clients use UDP."
-msgstr ""
+msgstr "Choose the type of клієнт. Default Radius-клієнтs use UDP."
 #
 # File: /usr/lang/src/controllers.php, line: 1278
 msgid "Choose the type of server. Default Radius-clients use UDP."
-msgstr ""
+msgstr "Choose the type of сервер. Default Radius-clients use UDP."
 #
 # File: /usr/lang/src/controllers.php, line: 1279
 msgid ""
@@ -26875,19 +26875,19 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1286
 msgid "Choose which gateway this route applies to."
-msgstr ""
+msgstr "Choose which шлюз this route applies to."
 #
 # File: /usr/lang/src/controllers.php, line: 1287
 msgid "Choose which interface the host to be woken up is connected to."
-msgstr ""
+msgstr "Choose which інтерфейс the host to be woken up is connected to."
 #
 # File: /usr/lang/src/controllers.php, line: 1288
 msgid "Choose which interface this gateway applies to."
-msgstr ""
+msgstr "Choose which інтерфейс this gateway applies to."
 #
 # File: /usr/lang/src/controllers.php, line: 1289
 msgid "Choose which interface this host is connected to."
-msgstr ""
+msgstr "Choose which інтерфейс this host is connected to."
 #
 # File: /usr/lang/src/controllers.php, line: 1290
 msgid ""
@@ -26951,17 +26951,17 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1304
 msgid "Client CA Certificate"
-msgstr ""
+msgstr "Клієнт CA Certificate"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 864
 # File: /usr/lang/src/controllers.php, line: 1305
 # File: /usr/lang/src/models.php, line: 475
 msgid "Client Certificate"
-msgstr ""
+msgstr "Клієнт Certificate"
 #
 # File: /usr/lang/src/controllers.php, line: 1306
 msgid "Client Certificate Auth"
-msgstr ""
+msgstr "Клієнт Certificate Auth"
 #
 # File: /usr/lang/src/controllers.php, line: 1307
 msgid ""
@@ -26972,40 +26972,40 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1308
 msgid "Client Expired Response Timeout"
-msgstr ""
+msgstr "Клієнт Expired Response Timeout"
 #
 # File: /usr/lang/src/controllers.php, line: 1309
 msgid "Client ID"
-msgstr ""
+msgstr "Клієнт ID"
 #
 # File: /usr/lang/src/controllers.php, line: 1310
 msgid "Client ID, if not set a random ID is generated."
-msgstr ""
+msgstr "Клієнт ID, if not set a random ID is generated."
 #
 # File: /usr/lang/src/controllers.php, line: 1311
 msgid "Client IP Addresses"
-msgstr ""
+msgstr "Client IP-адресаes"
 #
 # File: /usr/lang/src/controllers.php, line: 1312
 msgid "Client Secret"
-msgstr ""
+msgstr "Клієнт Secret"
 #
 # File: /usr/lang/src/controllers.php, line: 1313
 msgid "Client Timeout"
-msgstr ""
+msgstr "Клієнт Timeout"
 #
 # File: /usr/core/src/www/services_ntpd.php, line: 315
 # File: /usr/lang/src/controllers.php, line: 1314
 msgid "Client mode"
-msgstr ""
+msgstr "Клієнт mode"
 #
 # File: /usr/lang/src/controllers.php, line: 1315
 msgid "ClientId"
-msgstr ""
+msgstr "КлієнтId"
 #
 # File: /usr/lang/src/controllers.php, line: 1316
 msgid "ClientSecret"
-msgstr ""
+msgstr "КлієнтSecret"
 #
 # File: /usr/lang/src/controllers.php, line: 1317
 msgid ""
@@ -27071,11 +27071,11 @@ msgstr "Колір"
 #
 # File: /usr/lang/src/controllers.php, line: 1329
 msgid "Comma-separated list of DNS servers to use on the peer."
-msgstr ""
+msgstr "Comma-separated list of DNS серверs to use on the peer."
 #
 # File: /usr/lang/src/controllers.php, line: 1330
 msgid "Comma-separated list of SMTP servers for alert delivery."
-msgstr ""
+msgstr "Comma-separated list of SMTP серверs for alert delivery."
 #
 # File: /usr/plugins/net-mgmt/nrpe/src/opnsense/mvc/app/views/OPNsense/Nrpe/general.volt, line: 52
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/actions.volt, line: 234
@@ -27159,11 +27159,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1347
 msgid "Configuration constraints"
-msgstr ""
+msgstr "Конфігурація constraints"
 #
 # File: /usr/lang/src/controllers.php, line: 1348
 msgid "Configuration management and plugins"
-msgstr ""
+msgstr "Конфігурація management and plugins"
 #
 # File: /usr/lang/src/controllers.php, line: 1349
 msgid "Configure DNS alias mode to validate the certificate."
@@ -27385,7 +27385,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1398
 msgid "Core-Networks API"
-msgstr ""
+msgstr "Core-Мережаs API"
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 318
 # File: /usr/lang/src/controllers.php, line: 1399
@@ -27564,7 +27564,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1439
 msgid "DNS IP resolution for LDAP server name."
-msgstr ""
+msgstr "DNS IP resolution for LDAP сервер name."
 #
 # File: /usr/lang/src/controllers.php, line: 1440
 msgid "DNS IP resolution for hostname."
@@ -27590,17 +27590,17 @@ msgstr ""
 # File: /usr/core/src/www/system_general.php, line: 450
 # File: /usr/lang/src/controllers.php, line: 1445
 msgid "DNS Server"
-msgstr ""
+msgstr "DNS Сервер"
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 532
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1386
 # File: /usr/lang/src/controllers.php, line: 1446
 msgid "DNS Servers"
-msgstr ""
+msgstr "DNS Серверs"
 #
 # File: /usr/lang/src/controllers.php, line: 1447
 msgid "DNS Service"
-msgstr ""
+msgstr "DNS Служба"
 #
 # File: /usr/lang/src/controllers.php, line: 1448
 msgid "DNS Sleep Time"
@@ -27621,11 +27621,11 @@ msgstr ""
 # File: /usr/core/src/www/system_general.php, line: 445
 # File: /usr/lang/src/controllers.php, line: 1451
 msgid "DNS servers"
-msgstr ""
+msgstr "DNS серверs"
 #
 # File: /usr/lang/src/controllers.php, line: 1452
 msgid "DNS servers to offer to the clients"
-msgstr ""
+msgstr "DNS серверs to offer to the clients"
 #
 # File: /usr/lang/src/controllers.php, line: 1453
 msgid ""
@@ -27646,7 +27646,7 @@ msgstr ""
 # File: /usr/lang/src/controllers.php, line: 1456
 # File: /usr/lang/src/models.php, line: 547
 msgid "DNS.Services"
-msgstr ""
+msgstr "DNS.Службаs"
 #
 # File: /usr/lang/src/controllers.php, line: 1457
 msgid "DNS64 Prefix"
@@ -27701,7 +27701,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1469
 msgid "DTAG servers"
-msgstr ""
+msgstr "DTAG серверs"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api/OverviewController.php, line: 76
 # File: /usr/lang/src/controllers.php, line: 1470
@@ -27874,7 +27874,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1507
 msgid "Default Server"
-msgstr ""
+msgstr "Default Сервер"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/controllers/OPNsense/Nginx/Api/SettingsController.php, line: 409
 # File: /usr/lang/src/controllers.php, line: 1508
@@ -27901,11 +27901,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1513
 msgid "Default for server"
-msgstr ""
+msgstr "Default for сервер"
 #
 # File: /usr/lang/src/controllers.php, line: 1514
 msgid "Default gateways to offer to the clients"
-msgstr ""
+msgstr "Default gateways to offer to the клієнтs"
 #
 # File: /usr/lang/src/controllers.php, line: 1515
 msgid "Default internet speed test interval in seconds."
@@ -27923,7 +27923,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1518
 msgid "Default option for all server entries."
-msgstr ""
+msgstr "Default option for all сервер entries."
 #
 # File: /usr/lang/src/controllers.php, line: 1519
 msgid "Default target account"
@@ -27960,11 +27960,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1525
 msgid "Define the ACLs where you allow which server can retrieve this zone."
-msgstr ""
+msgstr "Define the ACLs where you allow which сервер can retrieve this zone."
 #
 # File: /usr/lang/src/controllers.php, line: 1526
 msgid "Define the ACLs where you allow which server can retrieve zones."
-msgstr ""
+msgstr "Define the ACLs where you allow which сервер can retrieve zones."
 #
 # File: /usr/lang/src/controllers.php, line: 1527
 msgid "Define the Fallback VLAN group ID."
@@ -28079,7 +28079,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1545
 msgid "Deny service binding"
-msgstr ""
+msgstr "Deny служба binding"
 #
 # File: /usr/lang/src/controllers.php, line: 1546
 msgid "Depend on (CARP)"
@@ -28280,7 +28280,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1554
 msgid "Description for this Public Service."
-msgstr ""
+msgstr "Description for this Public Служба."
 #
 # File: /usr/lang/src/controllers.php, line: 1555
 msgid "Description for this account."
@@ -28316,7 +28316,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1563
 msgid "Description for this server."
-msgstr ""
+msgstr "Description for this сервер."
 #
 # File: /usr/lang/src/controllers.php, line: 1564
 msgid "Description for this user."
@@ -28385,7 +28385,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1573
 msgid "Destination Address"
-msgstr ""
+msgstr "Destination Адреса"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IDS/index.volt, line: 467
 # File: /usr/lang/src/controllers.php, line: 1574
@@ -28401,11 +28401,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1576
 msgid "Destination network"
-msgstr ""
+msgstr "Destination мережа"
 #
 # File: /usr/lang/src/controllers.php, line: 1577
 msgid "Destination network for this static route"
-msgstr ""
+msgstr "Destination мережа for this static route"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IDS/index.volt, line: 469
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 637
@@ -28529,7 +28529,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1601
 msgid "Disable Gateway Monitoring"
-msgstr ""
+msgstr "Disable Шлюз Monitoring"
 #
 # File: /usr/lang/src/controllers.php, line: 1602
 msgid "Disable Graphite SSL/TLS"
@@ -28650,7 +28650,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1625
 msgid "Disabled Servers List"
-msgstr ""
+msgstr "Disabled Серверs List"
 #
 # File: /usr/lang/src/controllers.php, line: 1626
 msgid ""
@@ -28664,7 +28664,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1628
 msgid "Disconnect dialup interfaces"
-msgstr ""
+msgstr "Disconnect dialup інтерфейсs"
 #
 # File: /usr/lang/src/controllers.php, line: 1629
 # File: /usr/lang/src/dashboard.php, line: 64
@@ -28725,19 +28725,19 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1641
 msgid "Do not register IPv6 Link-Local addresses"
-msgstr ""
+msgstr "Do not register IPv6 Link-Local addresses"
 #
 # File: /usr/lang/src/controllers.php, line: 1642
 msgid "Do not register system A/AAAA records"
-msgstr ""
+msgstr "Do not register система A/AAAA records"
 #
 # File: /usr/lang/src/controllers.php, line: 1643
 msgid "Do not request IPv4 addresses."
-msgstr ""
+msgstr "Do not request IPv4 addresses."
 #
 # File: /usr/lang/src/controllers.php, line: 1644
 msgid "Do not request IPv6 addresses."
-msgstr ""
+msgstr "Do not request IPv6 addresses."
 #
 # File: /usr/lang/src/controllers.php, line: 1645
 msgid "Do not send alerts for the following events but on all others."
@@ -28805,7 +28805,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1655
 msgid "Domain-Offensive Resellerinterface"
-msgstr ""
+msgstr "Domain-Offensive Resellerінтерфейс"
 #
 # File: /usr/lang/src/controllers.php, line: 1656
 msgid "Domainname"
@@ -28891,7 +28891,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1675
 msgid "DynDns Check Interface"
-msgstr ""
+msgstr "DynDns Check Інтерфейс"
 #
 # File: /usr/lang/src/controllers.php, line: 1676
 msgid "DynDns Check Interval"
@@ -28933,7 +28933,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1683
 msgid "E-Mail Address"
-msgstr ""
+msgstr "E-Mail Адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 1684
 msgid "E-Mail Alert"
@@ -29040,11 +29040,11 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/library/OPNsense/Backup/GDrive.php, line: 56
 # File: /usr/lang/src/controllers.php, line: 1708
 msgid "Email Address"
-msgstr ""
+msgstr "Email Адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 1709
 msgid "Email addresses"
-msgstr ""
+msgstr "Email адресаes"
 #
 # File: /usr/plugins/dns/rfc2136/src/www/services_rfc2136.php, line: 136
 # File: /usr/plugins/dns/rfc2136/src/www/services_rfc2136_edit.php, line: 157
@@ -29084,7 +29084,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1713
 msgid "Enable ACME client plugin."
-msgstr ""
+msgstr "Enable ACME клієнт plugin."
 #
 # File: /usr/lang/src/controllers.php, line: 1714
 msgid "Enable AS-Override"
@@ -29120,7 +29120,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1722
 msgid "Enable Auto-Configuration"
-msgstr ""
+msgstr "Enable Auto-Конфігурація"
 #
 # File: /usr/lang/src/controllers.php, line: 1723
 msgid "Enable BIND Daemon"
@@ -29168,11 +29168,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1734
 msgid "Enable Client"
-msgstr ""
+msgstr "Enable Клієнт"
 #
 # File: /usr/lang/src/controllers.php, line: 1735
 msgid "Enable Client Certificate Authentication."
-msgstr ""
+msgstr "Enable Клієнт Certificate Authentication."
 #
 # File: /usr/lang/src/controllers.php, line: 1736
 msgid "Enable CoDel"
@@ -29184,7 +29184,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1738
 msgid "Enable DHCPv4 server."
-msgstr ""
+msgstr "Enable DHCPv4 сервер."
 #
 # File: /usr/lang/src/controllers.php, line: 1739
 msgid "Enable DNS64 Support"
@@ -29246,7 +29246,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1753
 msgid "Enable File System URLs"
-msgstr ""
+msgstr "Enable File Система URLs"
 #
 # File: /usr/lang/src/controllers.php, line: 1754
 msgid "Enable Freshclam verbose logging."
@@ -29411,7 +29411,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1790
 msgid "Enable Maltrail Server"
-msgstr ""
+msgstr "Enable Maltrail Сервер"
 #
 # File: /usr/lang/src/controllers.php, line: 1791
 msgid "Enable Media Streams"
@@ -29441,7 +29441,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1797
 msgid "Enable Netdata, you can reach the UI via address and port set below."
-msgstr ""
+msgstr "Enable Netdata, you can reach the UI via адреса and port set below."
 #
 # File: /usr/lang/src/controllers.php, line: 1798
 msgid "Enable Nut"
@@ -29469,7 +29469,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1804
 msgid "Enable PSK based encryption for communicating with the Zabbix server"
-msgstr ""
+msgstr "Enable PSK based encryption for communicating with the Zabbix сервер"
 #
 # File: /usr/lang/src/controllers.php, line: 1805
 msgid "Enable Parent Proxy"
@@ -29563,7 +29563,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1827
 msgid "Enable SNMP Service"
-msgstr ""
+msgstr "Enable SNMP Служба"
 #
 # File: /usr/lang/src/controllers.php, line: 1828
 msgid "Enable SONMP"
@@ -29603,7 +29603,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1837
 msgid "Enable Service"
-msgstr ""
+msgstr "Enable Служба"
 #
 # File: /usr/lang/src/controllers.php, line: 1838
 msgid "Enable ShadowSocks Local"
@@ -29611,7 +29611,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1839
 msgid "Enable ShadowSocks Server"
-msgstr ""
+msgstr "Enable ShadowSocks Сервер"
 #
 # File: /usr/lang/src/controllers.php, line: 1840
 msgid "Enable Single Sign-On"
@@ -29707,7 +29707,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1863
 msgid "Enable Zabbix Agent service."
-msgstr ""
+msgstr "Enable Zabbix Agent служба."
 #
 # File: /usr/lang/src/controllers.php, line: 1864
 msgid "Enable a DNS cache to reduce latency and outgoing traffic."
@@ -29773,7 +29773,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1878
 msgid "Enable c-icap service"
-msgstr ""
+msgstr "Enable c-icap служба"
 #
 # File: /usr/lang/src/controllers.php, line: 1879
 msgid ""
@@ -29783,11 +29783,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1880
 msgid "Enable clamd service"
-msgstr ""
+msgstr "Enable clamd служба"
 #
 # File: /usr/lang/src/controllers.php, line: 1881
 msgid "Enable configured services."
-msgstr ""
+msgstr "Enable configured службаs."
 #
 # File: /usr/lang/src/controllers.php, line: 1882
 msgid "Enable contextswitch plugin"
@@ -29811,7 +29811,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1887
 msgid "Enable ddclient"
-msgstr ""
+msgstr "Enable ddклієнт"
 #
 # File: /usr/lang/src/controllers.php, line: 1888
 msgid "Enable defaulttarget logging"
@@ -29836,7 +29836,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1893
 msgid "Enable encryption for mail server communication."
-msgstr ""
+msgstr "Enable encryption for mail сервер communication."
 #
 # File: /usr/lang/src/controllers.php, line: 1894
 msgid "Enable eve HTTP logging"
@@ -29856,7 +29856,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1898
 msgid "Enable fbox_anoncall_networks plugin"
-msgstr ""
+msgstr "Enable fbox_anoncall_мережаs plugin"
 #
 # File: /usr/lang/src/controllers.php, line: 1899
 msgid "Enable file integrity monitoring"
@@ -29864,15 +29864,15 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1900
 msgid "Enable filter-aaaa on IPv4 Clients"
-msgstr ""
+msgstr "Enable filter-aaaa on IPv4 Клієнтs"
 #
 # File: /usr/lang/src/controllers.php, line: 1901
 msgid "Enable filter-aaaa on IPv6 Clients"
-msgstr ""
+msgstr "Enable filter-aaaa on IPv6 Клієнтs"
 #
 # File: /usr/lang/src/controllers.php, line: 1902
 msgid "Enable fix_DTAG_networks plugin"
-msgstr ""
+msgstr "Enable fix_DTAG_мережаs plugin"
 #
 # File: /usr/lang/src/controllers.php, line: 1903
 msgid "Enable fix_bogus_via plugin"
@@ -29880,7 +29880,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1904
 msgid "Enable freshclam service"
-msgstr ""
+msgstr "Enable freshclam служба"
 #
 # File: /usr/lang/src/controllers.php, line: 1905
 msgid "Enable global SSL default values."
@@ -29910,7 +29910,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1911
 msgid "Enable interface plugin"
-msgstr ""
+msgstr "Enable інтерфейс plugin"
 #
 # File: /usr/lang/src/controllers.php, line: 1912
 msgid ""
@@ -29927,7 +29927,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1917
 msgid "Enable intrusion detection system."
-msgstr ""
+msgstr "Enable intrusion detection система."
 #
 # File: /usr/lang/src/controllers.php, line: 1918
 msgid "Enable ipstats plugin"
@@ -29935,7 +29935,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1919
 msgid "Enable lacp fast-timeout on the interface."
-msgstr ""
+msgstr "Enable lacp fast-timeout on the інтерфейс."
 #
 # File: /usr/lang/src/controllers.php, line: 1920
 msgid ""
@@ -29998,7 +29998,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1933
 msgid "Enable network plugin"
-msgstr ""
+msgstr "Enable мережа plugin"
 #
 # File: /usr/lang/src/controllers.php, line: 1934
 msgid "Enable nginx"
@@ -30070,11 +30070,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1945
 msgid "Enable or disable SSL communication with this server."
-msgstr ""
+msgstr "Enable or disable SSL communication with this сервер."
 #
 # File: /usr/lang/src/controllers.php, line: 1946
 msgid "Enable or disable SSL server certificate verification."
-msgstr ""
+msgstr "Enable or disable SSL сервер certificate verification."
 #
 # File: /usr/lang/src/controllers.php, line: 1947
 msgid "Enable or disable alert."
@@ -30103,7 +30103,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1953
 msgid "Enable or disable service checks."
-msgstr ""
+msgstr "Enable or disable служба checks."
 #
 # File: /usr/lang/src/controllers.php, line: 1954
 msgid "Enable or disable session redistribution in case of connection failure."
@@ -30111,7 +30111,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1955
 msgid "Enable or disable the Caddy web server."
-msgstr ""
+msgstr "Enable or disable the Caddy web сервер."
 #
 # File: /usr/lang/src/controllers.php, line: 1956
 msgid "Enable or disable the FritzBox Anoncall plugin."
@@ -30119,11 +30119,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1957
 msgid "Enable or disable the HAProxy service."
-msgstr ""
+msgstr "Enable or disable the HAProxy служба."
 #
 # File: /usr/lang/src/controllers.php, line: 1958
 msgid "Enable or disable the Redis service."
-msgstr ""
+msgstr "Enable or disable the Redis служба."
 #
 # File: /usr/lang/src/controllers.php, line: 1959
 msgid "Enable or disable the STUN plugin."
@@ -30150,7 +30150,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1963
 msgid "Enable or disable the fix_DTAG_networks plugin."
-msgstr ""
+msgstr "Enable or disable the fix_DTAG_мережаs plugin."
 #
 # File: /usr/lang/src/controllers.php, line: 1964
 msgid "Enable or disable the fix_bogus_via plugin."
@@ -30177,11 +30177,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1968
 msgid "Enable or disable the proxy service."
-msgstr ""
+msgstr "Enable or disable the proxy служба."
 #
 # File: /usr/lang/src/controllers.php, line: 1969
 msgid "Enable or disable the rspamd service."
-msgstr ""
+msgstr "Enable or disable the rspamd служба."
 #
 # File: /usr/lang/src/controllers.php, line: 1970
 msgid "Enable or disable the squid SNMP Agent."
@@ -30201,7 +30201,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1974
 msgid "Enable or disable this server."
-msgstr ""
+msgstr "Enable or disable this сервер."
 #
 # File: /usr/lang/src/controllers.php, line: 1975
 msgid "Enable or disable this udp relay."
@@ -30277,11 +30277,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 1992
 msgid "Enable service checks"
-msgstr ""
+msgstr "Enable служба checks"
 #
 # File: /usr/lang/src/controllers.php, line: 1993
 msgid "Enable siproxd service"
-msgstr ""
+msgstr "Enable siproxd служба"
 #
 # File: /usr/lang/src/controllers.php, line: 1994
 msgid ""
@@ -30343,7 +30343,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2008
 msgid "Enable the APC UPS service."
-msgstr ""
+msgstr "Enable the APC UPS служба."
 #
 # File: /usr/lang/src/controllers.php, line: 2009
 msgid "Enable the APCSMART driver."
@@ -30384,7 +30384,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2017
 msgid "Enable the FILESYSTEM collector."
-msgstr ""
+msgstr "Enable the FILESYSTEM collector."
 #
 # File: /usr/lang/src/controllers.php, line: 2018
 msgid "Enable the INTERRUPTS collector."
@@ -30408,7 +30408,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2023
 msgid "Enable the Netclient driver."
-msgstr ""
+msgstr "Enable the Netклієнт driver."
 #
 # File: /usr/lang/src/controllers.php, line: 2024
 msgid "Enable the PowerWare BCMXCPUSB driver."
@@ -30416,11 +30416,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2025
 msgid "Enable the Puppet Agent service."
-msgstr ""
+msgstr "Enable the Puppet Agent служба."
 #
 # File: /usr/lang/src/controllers.php, line: 2026
 msgid "Enable the QEMU guest agent service."
-msgstr ""
+msgstr "Enable the QEMU guest agent служба."
 #
 # File: /usr/lang/src/controllers.php, line: 2027
 msgid "Enable the QX driver."
@@ -30468,7 +30468,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2038
 msgid "Enable the collection of data about the internet speed on the system."
-msgstr ""
+msgstr "Enable the collection of data about the internet speed on the система."
 #
 # File: /usr/lang/src/controllers.php, line: 2039
 msgid "Enable the file download speed test."
@@ -30476,7 +30476,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2040
 msgid "Enable the logging of authentication requests, including MAC addresses."
-msgstr ""
+msgstr "Enable the logging of authentication requests, including MAC-адресаes."
 #
 # File: /usr/lang/src/controllers.php, line: 2041
 msgid "Enable the override for this host"
@@ -30528,11 +30528,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2051
 msgid "Enable this Onion service."
-msgstr ""
+msgstr "Enable this Onion служба."
 #
 # File: /usr/lang/src/controllers.php, line: 2052
 msgid "Enable this Public Service."
-msgstr ""
+msgstr "Enable this Public Служба."
 #
 # File: /usr/lang/src/controllers.php, line: 2053
 msgid "Enable this account"
@@ -30540,7 +30540,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2054
 msgid "Enable this address"
-msgstr ""
+msgstr "Enable this адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 2055
 msgid "Enable this alias for the selected host"
@@ -30602,11 +30602,11 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2069
 msgid "Enable this mailer configuration."
-msgstr ""
+msgstr "Enable this mailer конфігурація."
 #
 # File: /usr/lang/src/controllers.php, line: 2070
 msgid "Enable this network"
-msgstr ""
+msgstr "Enable this мережа"
 #
 # File: /usr/lang/src/controllers.php, line: 2071
 msgid "Enable this pipe and its related queues and rules"
@@ -30626,7 +30626,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2075
 msgid "Enable this resolver configuration."
-msgstr ""
+msgstr "Enable this resolver конфігурація."
 #
 # File: /usr/lang/src/controllers.php, line: 2076
 msgid "Enable this rule"
@@ -30638,7 +30638,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2078
 msgid "Enable this server."
-msgstr ""
+msgstr "Enable this сервер."
 #
 # File: /usr/lang/src/controllers.php, line: 2079
 msgid "Enable this subdomain."
@@ -30658,7 +30658,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2083
 msgid "Enable this virtual server"
-msgstr ""
+msgstr "Enable this virtual сервер"
 #
 # File: /usr/lang/src/controllers.php, line: 2084
 msgid "Enable this zone"
@@ -30899,7 +30899,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2108
 msgid "Enables or disables verification of OCSP responses by the server."
-msgstr ""
+msgstr "Enables or disables verification of OCSP responses by the сервер."
 #
 # File: /usr/lang/src/controllers.php, line: 2109
 msgid ""
@@ -30952,7 +30952,7 @@ msgstr "Кінцева точка"
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Wireguard/general.volt, line: 297
 # File: /usr/lang/src/controllers.php, line: 2119
 msgid "Endpoint address"
-msgstr ""
+msgstr "Endpoint адреса"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Wireguard/general.volt, line: 298
 # File: /usr/lang/src/controllers.php, line: 2120
@@ -30987,7 +30987,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2126
 msgid "Enter IP addresses here. Finish each with TAB."
-msgstr ""
+msgstr "Enter IP-адресаes here. Finish each with TAB."
 #
 # File: /usr/lang/src/controllers.php, line: 2127
 msgid ""
@@ -30998,11 +30998,11 @@ msgstr ""
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 307
 # File: /usr/lang/src/controllers.php, line: 2128
 msgid "Enter a MAC address in the following format: xx:xx:xx:xx:xx:xx"
-msgstr ""
+msgstr "Enter a MAC-адреса in the following format: xx:xx:xx:xx:xx:xx"
 #
 # File: /usr/lang/src/controllers.php, line: 2129
 msgid "Enter a MAC address in the following format: xx:xx:xx:xx:xx:xx."
-msgstr ""
+msgstr "Enter a MAC-адреса in the following format: xx:xx:xx:xx:xx:xx."
 #
 # File: /usr/lang/src/controllers.php, line: 2130
 msgid "Enter a URL pattern like forum.opnsense.org/index*."
@@ -31228,7 +31228,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2169
 msgid "Enter a network which will be used as an IP Pool to map onion Hosts."
-msgstr ""
+msgstr "Enter a мережа which will be used as an IP Pool to map onion Hosts."
 #
 # File: /usr/lang/src/controllers.php, line: 2170
 msgid ""
@@ -31325,7 +31325,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 2187
 msgid "Enter address:port here. Finish with TAB."
-msgstr ""
+msgstr "Enter адреса:port here. Finish with TAB."
 #
 # File: /usr/lang/src/controllers.php, line: 2188
 msgid "Enter an end port if you want to use a port range."
