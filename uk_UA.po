@@ -168,7 +168,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 123
 #, php-format
 msgid "%s interface priority for STP needs to be an integer between 0 and 240."
-msgstr ""
+msgstr "%s інтерфейс priority for STP needs to be an integer between 0 and 240."
 #
 # File: /usr/plugins/dns/dnscrypt-proxy/src/opnsense/mvc/app/models/OPNsense/Dnscryptproxy/General.php, line: 72
 #, php-format
@@ -186,19 +186,19 @@ msgstr ""
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 210
 #, php-format
 msgid "%s is not a valid IPv4 address."
-msgstr ""
+msgstr "%s is not a valid IPv4 address."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 191
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 213
 #, php-format
 msgid "%s is not a valid IPv6 address."
-msgstr ""
+msgstr "%s is not a valid IPv6 address."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 200
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 304
 #, php-format
 msgid "%s is not a valid destination IP address or alias."
-msgstr ""
+msgstr "%s is not a valid destination IP-адреса or alias."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 175
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 285
@@ -222,7 +222,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 298
 #, php-format
 msgid "%s is not a valid source IP address or alias."
-msgstr ""
+msgstr "%s is not a valid source IP-адреса or alias."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 173
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 282
@@ -278,7 +278,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_nat_out.php, line: 571
 #, php-format
 msgid "%s networks"
-msgstr ""
+msgstr "%s мережаs"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/alias.volt, line: 198
 msgid "%s out of %s selected"
@@ -546,7 +546,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 553
 msgid "%sSet state to ready:%s This puts the server in normal mode."
-msgstr ""
+msgstr "%sSet state to ready:%s This puts the сервер in normal mode."
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 596
 msgid ""
@@ -935,7 +935,7 @@ msgstr "6RD IPv4 довжина префіксу"
 #
 # File: /usr/core/src/www/interfaces.php, line: 773
 msgid "6RD IPv4 prefix address must be a valid IPv4 address."
-msgstr ""
+msgstr "6RD IPv4 prefix address must be a valid IPv4 address."
 #
 # File: /usr/core/src/www/interfaces.php, line: 776
 msgid "6RD IPv4 prefix length must be a number."
@@ -947,7 +947,7 @@ msgstr "6RD швидке розгортання"
 #
 # File: /usr/core/src/www/interfaces.php, line: 767
 msgid "6RD border relay gateway must be a valid IPv4 address."
-msgstr ""
+msgstr "6RD border relay gateway must be a valid IPv4 address."
 #
 # File: /usr/core/src/www/interfaces.php, line: 2979
 msgid "6RD prefix"
@@ -1188,7 +1188,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 309
 msgid "A valid Dynamic DNS address for 'My identifier' must be specified."
-msgstr ""
+msgstr "A valid Dynamic DNS адреса for 'My identifier' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 301
 msgid "A valid FQDN for 'My identifier' must be specified."
@@ -1206,23 +1206,23 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 126
 msgid "A valid IP address for 'DNS Server #1' must be specified."
-msgstr ""
+msgstr "A valid IP-адреса for 'DNS Server #1' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 129
 msgid "A valid IP address for 'DNS Server #2' must be specified."
-msgstr ""
+msgstr "A valid IP-адреса for 'DNS Server #2' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 132
 msgid "A valid IP address for 'DNS Server #3' must be specified."
-msgstr ""
+msgstr "A valid IP-адреса for 'DNS Server #3' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 135
 msgid "A valid IP address for 'DNS Server #4' must be specified."
-msgstr ""
+msgstr "A valid IP-адреса for 'DNS Server #4' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 297
 msgid "A valid IP address for 'My identifier' must be specified."
-msgstr ""
+msgstr "A valid IP-адреса for 'My identifier' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 328
 msgid "A valid IP address for 'Peer identifier' must be specified."
