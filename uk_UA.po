@@ -1483,16 +1483,16 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 226
 msgid "A valid local network bit count must be specified."
-msgstr ""
+msgstr "A valid local мережа bit count must be specified."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/FieldTypes/LinkAddressField.php, line: 102
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/FieldTypes/VipNetworkField.php, line: 51
 msgid "A valid network address is required."
-msgstr ""
+msgstr "A valid network адреса is required."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/FieldTypes/VipNetworkField.php, line: 53
 msgid "A valid network subnet is required."
-msgstr ""
+msgstr "A valid мережа subnet is required."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 251
 msgid "A valid port number must be specified for the OMAPI port."
@@ -1546,13 +1546,13 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 263
 msgid "A valid remote gateway address or host name must be specified."
-msgstr ""
+msgstr "A valid remote gateway адреса or host name must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 267
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 282
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 289
 msgid "A valid remote network IP address must be specified."
-msgstr ""
+msgstr "A valid remote network IP-адреса must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 269
 msgid ""
@@ -1568,7 +1568,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 262
 msgid "A valid remote network bit count must be specified."
-msgstr ""
+msgstr "A valid remote мережа bit count must be specified."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 196
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 175
@@ -1591,7 +1591,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 192
 msgid "A valid target IP address must be specified."
-msgstr ""
+msgstr "A valid target IP-адреса must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 112
 msgid "A valid value for 'DNS Default Domain' must be specified."
@@ -1938,12 +1938,12 @@ msgstr "Додаткові пули"
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Vip.php, line: 217
 #, possible-php-format
 msgid "Address %s referenced by outbound nat rule \"%s\""
-msgstr ""
+msgstr "Адреса %s referenced by outbound nat rule \"%s\""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Vip.php, line: 218
 #, possible-php-format
 msgid "Address %s referenced by port forward \"%s\""
-msgstr ""
+msgstr "Адреса %s referenced by port forward \"%s\""
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api/OverviewController.php, line: 73
 msgid "Address Length"
@@ -1952,12 +1952,12 @@ msgstr "Довжина адреси"
 # File: /usr/core/src/www/firewall_rules.php, line: 87
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 995
 msgid "Address Mask Reply (Deprecated)"
-msgstr ""
+msgstr "Адреса Mask Reply (Deprecated)"
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 86
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 994
 msgid "Address Mask Request (Deprecated)"
-msgstr ""
+msgstr "Адреса Mask Request (Deprecated)"
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Vip.php, line: 203
 msgid "Address already assigned."
@@ -1971,11 +1971,11 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Monit/Monit.php, line: 270
 msgid "Address is mandatory for 'Remote Host' checks."
-msgstr ""
+msgstr "Адреса is mandatory for 'Remote Host' checks."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Kea/KeaDhcpv4.php, line: 89
 msgid "Address not in specified subnet"
-msgstr ""
+msgstr "Адреса not in specified subnet"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 620
 msgid "Address:"
@@ -2194,7 +2194,7 @@ msgstr "Домен псевдоніма"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2214
 msgid "Alias IPv4 address"
-msgstr ""
+msgstr "Alias IPv4 address"
 #
 # File: /usr/plugins/net-mgmt/zabbix-agent/src/opnsense/mvc/app/views/OPNsense/ZabbixAgent/index.volt, line: 201
 msgid "Alias Key"
@@ -2282,7 +2282,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_general.php, line: 506
 msgid "Allow DNS server list to be overridden by DHCP/PPP on WAN"
-msgstr ""
+msgstr "Allow DNS сервер list to be overridden by DHCP/PPP on WAN"
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 252
 msgid "Allow PCP/NAT-PMP Port Mapping"
