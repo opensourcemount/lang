@@ -17427,11 +17427,11 @@ msgstr "The STUN host must be a valid IP-адреса or hostname."
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 345
 msgid "The Server Bridge DHCP range is invalid (start higher than end)."
-msgstr ""
+msgstr "The Сервер Bridge DHCP range is invalid (start higher than end)."
 #
 # File: /usr/core/src/www/interfaces_ppps_edit.php, line: 162
 msgid "The Service name contains invalid characters."
-msgstr ""
+msgstr "The Служба name contains invalid characters."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 312
 #, php-format
@@ -17474,15 +17474,15 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 1877
 msgid "The assigned network device name of this interface."
-msgstr ""
+msgstr "The assigned network device name of this інтерфейс."
 #
 # File: /usr/core/src/www/status_habackup.php, line: 190
 msgid "The backup firewall is not accessible (check user credentials)."
-msgstr ""
+msgstr "The backup брандмауер is not accessible (check user credentials)."
 #
 # File: /usr/core/src/www/status_habackup.php, line: 187
 msgid "The backup firewall is not accessible or not configured."
-msgstr ""
+msgstr "The backup брандмауер is not accessible or not configured."
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 278
 msgid "The bandwidth limit must be a positive numeric value."
@@ -17518,15 +17518,15 @@ msgstr ""
 #
 # File: /usr/core/src/www/diag_backup.php, line: 299
 msgid "The configuration area has been restored."
-msgstr ""
+msgstr "The конфігурація area has been restored."
 #
 # File: /usr/core/src/www/diag_backup.php, line: 266
 msgid "The configuration could not be restored (file upload error)."
-msgstr ""
+msgstr "The конфігурація could not be restored (file upload error)."
 #
 # File: /usr/core/src/www/diag_backup.php, line: 347
 msgid "The configuration could not be restored."
-msgstr ""
+msgstr "The конфігурація could not be restored."
 #
 # File: /usr/core/src/www/interfaces.php, line: 2209
 # File: /usr/core/src/www/interfaces.php, line: 2744
@@ -17537,7 +17537,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/diag_backup.php, line: 345
 msgid "The configuration has been restored."
-msgstr ""
+msgstr "The конфігурація has been restored."
 #
 # File: /usr/core/src/www/system_advanced_network.php, line: 416
 msgid ""
@@ -17547,7 +17547,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/FirmwareController.php, line: 282
 msgid "The current package configuration is invalid."
-msgstr ""
+msgstr "The current package конфігурація is invalid."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 814
 # File: /usr/core/src/www/services_dhcpv6.php, line: 580
@@ -17665,22 +17665,22 @@ msgstr ""
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 656
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 276
 msgid "The field 'DNS Server #1' must contain a valid IP address"
-msgstr ""
+msgstr "The field 'DNS Server #1' must contain a valid IP-адреса"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 659
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 279
 msgid "The field 'DNS Server #2' must contain a valid IP address"
-msgstr ""
+msgstr "The field 'DNS Server #2' must contain a valid IP-адреса"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 662
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 282
 msgid "The field 'DNS Server #3' must contain a valid IP address"
-msgstr ""
+msgstr "The field 'DNS Server #3' must contain a valid IP-адреса"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 665
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 285
 msgid "The field 'DNS Server #4' must contain a valid IP address"
-msgstr ""
+msgstr "The field 'DNS Server #4' must contain a valid IP-адреса"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 216
 msgid ""
@@ -17690,12 +17690,12 @@ msgstr ""
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 669
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 289
 msgid "The field 'NTP Server #1' must contain a valid IP address"
-msgstr ""
+msgstr "The field 'NTP Server #1' must contain a valid IP-адреса"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 672
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 292
 msgid "The field 'NTP Server #2' must contain a valid IP address"
-msgstr ""
+msgstr "The field 'NTP Server #2' must contain a valid IP-адреса"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 254
 msgid ""
@@ -17736,12 +17736,12 @@ msgstr ""
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 676
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 297
 msgid "The field 'WINS Server #1' must contain a valid IP address"
-msgstr ""
+msgstr "The field 'WINS Server #1' must contain a valid IP-адреса"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 679
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 300
 msgid "The field 'WINS Server #2' must contain a valid IP address"
-msgstr ""
+msgstr "The field 'WINS Server #2' must contain a valid IP-адреса"
 #
 # File: /usr/core/src/www/guiconfig.inc, line: 288
 #, php-format
@@ -17777,11 +17777,11 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 240
 msgid "The firewall will reboot directly after this firmware update."
-msgstr ""
+msgstr "The брандмауер will reboot directly after this firmware update."
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 197
 msgid "The firewall will reboot directly after this set reinstall."
-msgstr ""
+msgstr "The брандмауер will reboot directly after this set reinstall."
 #
 # File: /usr/core/src/www/guiconfig.inc, line: 230
 msgid "The following input errors were detected:"
@@ -17789,7 +17789,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/dot.volt, line: 54
 msgid "The following nameservers are used:"
-msgstr ""
+msgstr "The following nameсерверs are used:"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/certificates.volt, line: 466
 msgid ""
@@ -17916,7 +17916,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 1868
 msgid "The internal configuration identifier of this interface."
-msgstr ""
+msgstr "The internal configuration identifier of this інтерфейс."
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 847
 msgid "The key exchange methods that are used to generate per-connection keys"
@@ -18066,11 +18066,11 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 225
 msgid "The range is unavailable (single host network mask /128 used)."
-msgstr ""
+msgstr "The range is unavailable (single host мережа mask /128 used)."
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 479
 msgid "The range should be entered using the full IPv6 address."
-msgstr ""
+msgstr "The range should be entered using the full IPv6 address."
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 481
 msgid ""
@@ -18088,12 +18088,12 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Gre.php, line: 54
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Gre.php, line: 65
 msgid "The remote address family has to match the one used in local."
-msgstr ""
+msgstr "The remote адреса family has to match the one used in local."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 277
 #, php-format
 msgid "The remote gateway \"%s\" is already used by phase1 \"%s\"."
-msgstr ""
+msgstr "The remote шлюз \"%s\" is already used by phase1 \"%s\"."
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/FirmwareController.php, line: 291
 msgid "The repository did not grant access."
@@ -18136,7 +18136,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 915
 msgid "The service name contains invalid characters."
-msgstr ""
+msgstr "The служба name contains invalid characters."
 #
 # File: /usr/core/src/www/firewall_scrub.php, line: 40
 msgid ""
@@ -18150,7 +18150,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 523
 msgid "The span interface cannot be part of the bridge member interfaces."
-msgstr ""
+msgstr "The span інтерфейс cannot be part of the bridge member інтерфейсs."
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 220
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 240
@@ -18186,7 +18186,7 @@ msgstr ""
 # File: /usr/core/src/www/services_dhcp.php, line: 600
 # File: /usr/core/src/www/services_dhcpv6.php, line: 421
 msgid "The static mapping configuration has been changed"
-msgstr ""
+msgstr "The static mapping конфігурація has been changed"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/statistics.volt, line: 55
 msgid "The statistics could not be fetched. Is HAProxy running?"
@@ -18199,12 +18199,12 @@ msgstr ""
 # File: /usr/core/src/www/services_dhcp.php, line: 259
 #, php-format
 msgid "The subnet range cannot overlap with virtual IP address %s."
-msgstr ""
+msgstr "The subnet range cannot overlap with virtual IP-адреса %s."
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 154
 #, php-format
 msgid "The subnet range cannot overlap with virtual IPv6 address %s."
-msgstr ""
+msgstr "The subnet range cannot overlap with virtual IPv6 address %s."
 #
 # File: /usr/core/src/opnsense/mvc/app/library/OPNsense/Backup/GDrive.php, line: 141
 msgid "The supplied 'Password' and 'Confirm' field values must match."
@@ -18219,19 +18219,19 @@ msgstr ""
 #
 # File: /usr/core/src/www/diag_defaults.php, line: 61
 msgid "The system has been reset to factory defaults and is shutting down."
-msgstr ""
+msgstr "The система has been reset to factory defaults and is shutting down."
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/halt.volt, line: 41
 msgid "The system is powering off now."
-msgstr ""
+msgstr "The система is powering off now."
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/reboot.volt, line: 52
 msgid "The system is rebooting now, please wait..."
-msgstr ""
+msgstr "The система is rebooting now, please wait..."
 #
 # File: /usr/core/src/www/diag_backup.php, line: 366
 msgid "The system is rebooting now. This may take one minute."
-msgstr ""
+msgstr "The система is rebooting now. This may take one minute."
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 210
 msgid "The target port range must be an integer between 1 and 65535."
@@ -18438,7 +18438,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/dot.volt, line: 61
 msgid "There are no system nameservers configured. Please do so in "
-msgstr ""
+msgstr "There are no system nameсерверs configured. Please do so in "
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/FirmwareController.php, line: 334
 msgid "There are no updates available on the selected mirror."
@@ -18547,7 +18547,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_nat_out.php, line: 432
 # File: /usr/core/src/www/guiconfig.inc, line: 322
 msgid "This Firewall"
-msgstr ""
+msgstr "This Брандмауер"
 #
 # File: /usr/core/src/www/services_dhcpv6_edit.php, line: 118
 msgid "This Hostname, IP or DUID Identifier already exists."
@@ -18555,40 +18555,40 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 856
 msgid "This IPv4 address conflicts with a Static Route."
-msgstr ""
+msgstr "This IPv4 address conflicts with a Static Route."
 #
 # File: /usr/core/src/www/interfaces.php, line: 842
 msgid "This IPv4 address is being used by another interface or VIP."
-msgstr ""
+msgstr "This IPv4 address is being used by another interface or VIP."
 #
 # File: /usr/core/src/www/interfaces.php, line: 849
 msgid "This IPv4 address is the broadcast address and cannot be used"
-msgstr ""
+msgstr "This IPv4 address is the broadcast address and cannot be used"
 #
 # File: /usr/core/src/www/interfaces.php, line: 847
 msgid "This IPv4 address is the network address and cannot be used"
-msgstr ""
+msgstr "This IPv4 address is the network address and cannot be used"
 #
 # File: /usr/core/src/www/interfaces.php, line: 874
 msgid "This IPv6 address conflicts with a Static Route."
-msgstr ""
+msgstr "This IPv6 address conflicts with a Static Route."
 #
 # File: /usr/core/src/www/interfaces.php, line: 868
 msgid "This IPv6 address is being used by another interface or VIP."
-msgstr ""
+msgstr "This IPv6 address is being used by another interface or VIP."
 #
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 133
 msgid "This MAC address already exists."
-msgstr ""
+msgstr "This MAC-адреса already exists."
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api/VlanSettingsController.php, line: 174
 msgid "This VLAN cannot be deleted because it is assigned as an interface."
-msgstr ""
+msgstr "This VLAN cannot be deleted because it is assigned as an інтерфейс."
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api/VlanSettingsController.php, line: 116
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api/VlanSettingsController.php, line: 172
 msgid "This VLAN cannot be deleted because it is used in QinQ interfaces."
-msgstr ""
+msgstr "This VLAN cannot be deleted because it is used in QinQ інтерфейсs."
 #
 # File: /usr/core/src/www/firewall_scrub.php, line: 262
 msgid ""
@@ -18606,11 +18606,11 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces_bridge.php, line: 43
 msgid "This bridge cannot be deleted because it is assigned as an interface."
-msgstr ""
+msgstr "This bridge cannot be deleted because it is assigned as an інтерфейс."
 #
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 137
 msgid "This client identifier already exists."
-msgstr ""
+msgstr "This клієнт identifier already exists."
 #
 # File: /usr/core/src/www/crash_reporter.php, line: 236
 msgid ""
@@ -18658,7 +18658,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Firewall/Filter.php, line: 118
 msgid "This interface is not tracking the current rule interface."
-msgstr ""
+msgstr "This інтерфейс is not tracking the current rule інтерфейс."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 849
 msgid "This is associated to a NAT rule."
@@ -18757,7 +18757,7 @@ msgstr ""
 #
 # File: /usr/plugins/dns/rfc2136/src/www/services_rfc2136_edit.php, line: 205
 msgid "This must match the setting on the DNS server."
-msgstr ""
+msgstr "This must match the setting on the DNS сервер."
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/vip.volt, line: 147
 msgid "This node"
@@ -18773,7 +18773,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_ntpd_gps.php, line: 328
 msgid "This option allows you to select a predefined configuration."
-msgstr ""
+msgstr "This option allows you to select a predefined конфігурація."
 #
 # File: /usr/core/src/www/interfaces_ppps_edit.php, line: 690
 msgid ""
@@ -18920,11 +18920,11 @@ msgstr ""
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 256
 msgid "This protocol is often used by Apple-compatible systems."
-msgstr ""
+msgstr "This protocol is often used by Apple-compatible системаs."
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 247
 msgid "This protocol is often used by Microsoft-compatible systems."
-msgstr ""
+msgstr "This protocol is often used by Microsoft-compatible системаs."
 #
 # File: /usr/core/src/www/firewall_schedule_edit.php, line: 752
 msgid "This schedule is in use so the name may not be modified!"
@@ -18942,7 +18942,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 3058
 msgid "This selects the dynamic IPv6 WAN interface to track for configuration"
-msgstr ""
+msgstr "This selects the dynamic IPv6 WAN інтерфейс to track for configuration"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 582
 msgid ""
@@ -18984,7 +18984,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 562
 msgid "This will disable the autoedge status of interfaces."
-msgstr ""
+msgstr "This will disable the autoedge status of інтерфейсs."
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 353
 msgid ""
@@ -19142,7 +19142,7 @@ msgstr ""
 #
 # File: /usr/plugins/security/tinc/src/etc/inc/plugins.inc.d/tinc.inc, line: 70
 msgid "Tinc VPN Server"
-msgstr ""
+msgstr "Tinc VPN Сервер"
 #
 # File: /usr/core/src/www/system_authservers.php, line: 894
 msgid ""
@@ -19200,7 +19200,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 824
 msgid "Top 10 client activity over the last "
-msgstr ""
+msgstr "Top 10 клієнт activity over the last "
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 866
 msgid "Top blocked domains"
@@ -19248,11 +19248,11 @@ msgstr "Всього"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3032
 msgid "Track IPv6 Interface"
-msgstr ""
+msgstr "Track IPv6 Інтерфейс"
 #
 # File: /usr/core/src/www/interfaces.php, line: 1504
 msgid "Track Interface"
-msgstr ""
+msgstr "Track Інтерфейс"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Firewall/NptController.php, line: 50
 msgid "Track if"
@@ -19273,7 +19273,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 694
 msgid "Translation address"
-msgstr ""
+msgstr "Translation адреса"
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 119
 msgid "Transmit Hold Count for STP needs to be an integer between 1 and 10."
@@ -19293,7 +19293,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Syslog/Syslog.php, line: 63
 msgid "Transport protocol does not match address in hostname"
-msgstr ""
+msgstr "Transport protocol does not match адреса in hostname"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 584
 msgid ""
@@ -19329,7 +19329,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Wireguard/general.volt, line: 330
 msgid "Tunnel Address"
-msgstr ""
+msgstr "Tunnel Адреса"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1135
 msgid "Tunnel Isolation"
@@ -19339,7 +19339,7 @@ msgstr ""
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 329
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1646
 msgid "Tunnel Network"
-msgstr ""
+msgstr "Tunnel Мережа"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/spd.volt, line: 125
 msgid "Tunnel endpoints"
@@ -19347,7 +19347,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 584
 msgid "Tunnel network"
-msgstr ""
+msgstr "Tunnel мережа"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/sad.volt, line: 86
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/spd.volt, line: 129
@@ -19442,7 +19442,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/zerotier/src/opnsense/mvc/app/controllers/OPNsense/Zerotier/Api/NetworkController.php, line: 209
 msgid "Unable to obtain Zerotier information for network"
-msgstr ""
+msgstr "Unable to obtain Zerotier information for мережа"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/controllers/OPNsense/Caddy/Api/ServiceController.php, line: 71
 msgid "Unable to parse the validation result."
@@ -19480,7 +19480,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api/OverviewController.php, line: 173
 msgid "Unassigned Interface"
-msgstr ""
+msgstr "Unassigned Інтерфейс"
 #
 # File: /usr/core/src/www/reporting_settings.php, line: 225
 msgid "Unbound DNS reporting"
@@ -19505,11 +19505,11 @@ msgstr "Невідомо"
 #
 # File: /usr/plugins/www/web-proxy-sso/src/opnsense/mvc/app/controllers/OPNsense/ProxySSO/Api/ServiceController.php, line: 206
 msgid "Unknown LDAP server FQDN."
-msgstr ""
+msgstr "Unknown LDAP сервер FQDN."
 #
 # File: /usr/plugins/www/web-proxy-sso/src/opnsense/mvc/app/controllers/OPNsense/ProxySSO/Api/ServiceController.php, line: 187
 msgid "Unknown LDAP server IP."
-msgstr ""
+msgstr "Unknown LDAP сервер IP."
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 119
 #, php-format
@@ -19618,7 +19618,7 @@ msgstr ""
 #
 # File: /usr/plugins/security/maltrail/src/opnsense/mvc/app/views/OPNsense/Maltrail/general.volt, line: 30
 msgid "Updates in this section need also a restart via Sensor or Server menu."
-msgstr ""
+msgstr "Updates in this section need also a restart via Sensor or Сервер menu."
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 826
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 910
@@ -19660,11 +19660,11 @@ msgstr ""
 #
 # File: /usr/plugins/net/igmp-proxy/src/www/services_igmpproxy_edit.php, line: 185
 msgid "Upstream Interface"
-msgstr ""
+msgstr "Upstream Інтерфейс"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/index.volt, line: 238
 msgid "Upstream Server"
-msgstr ""
+msgstr "Upstream Сервер"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 102
 msgid "Upstreams"
@@ -19746,11 +19746,11 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1652
 msgid "Use a wizard to setup a new server"
-msgstr ""
+msgstr "Use a wizard to setup a new сервер"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 876
 msgid "Use all but selected interfaces"
-msgstr ""
+msgstr "Use all but selected інтерфейсs"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1539
 msgid "Use common name"
@@ -19758,7 +19758,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_general.php, line: 451
 msgid "Use gateway"
-msgstr ""
+msgstr "Use шлюз"
 #
 # File: /usr/core/src/www/system_authservers.php, line: 613
 msgid ""
@@ -19773,11 +19773,11 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 517
 msgid "Use memory file system for /tmp"
-msgstr ""
+msgstr "Use memory file система for /tmp"
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 497
 msgid "Use memory file system for /var/log"
-msgstr ""
+msgstr "Use memory file система for /var/log"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 422
 msgid ""
@@ -19799,19 +19799,19 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 1047
 msgid "Use system default"
-msgstr ""
+msgstr "Use система default"
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 363
 msgid "Use system time"
-msgstr ""
+msgstr "Use система time"
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 367
 msgid "Use system uptime instead of service uptime?"
-msgstr ""
+msgstr "Use system uptime instead of служба uptime?"
 #
 # File: /usr/core/src/www/services_router_advertisements.php, line: 439
 msgid "Use the DNS configuration of the DHCPv6 server"
-msgstr ""
+msgstr "Use the DNS configuration of the DHCPv6 сервер"
 #
 # File: /usr/core/src/www/interfaces_wireless_edit.php, line: 100
 msgid ""
@@ -19840,7 +19840,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1614
 msgid "Use username instead of common name to match client specific override."
-msgstr ""
+msgstr "Use username instead of common name to match клієнт specific override."
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 576
 msgid ""
@@ -19938,7 +19938,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_usermanager.php, line: 628
 msgid "User's e-mail address, for your own information only"
-msgstr ""
+msgstr "User's e-mail адреса, for your own information only"
 #
 # File: /usr/core/src/www/system_usermanager.php, line: 619
 msgid "User's full name, for your own information only"
@@ -19999,7 +19999,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Vip.php, line: 187
 #, possible-php-format
 msgid "VHID %s must be defined on interface %s as a CARP VIP first."
-msgstr ""
+msgstr "VHID %s must be defined on інтерфейс %s as a CARP VIP first."
 #
 # File: /usr/core/src/www/diag_backup.php, line: 161
 msgid "VLAN Devices"
@@ -20025,7 +20025,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces_assign.php, line: 234
 #, php-format
 msgid "VLAN parent interface %s does not exist."
-msgstr ""
+msgstr "VLAN parent інтерфейс %s does not exist."
 #
 # File: /usr/core/src/www/system_usermanager.php, line: 793
 msgid "Valid From"
@@ -20123,11 +20123,11 @@ msgstr ""
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 321
 msgid "Via interface"
-msgstr ""
+msgstr "Via інтерфейс"
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 322
 msgid "Via interface name"
-msgstr ""
+msgstr "Via інтерфейс name"
 #
 # File: /usr/core/src/etc/inc/system.inc, line: 269
 msgid "Vietnamese"
@@ -20162,28 +20162,28 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/OpenVPN/status.volt, line: 133
 msgid "Virtual IPv4 Address"
-msgstr ""
+msgstr "Virtual IPv4 Address"
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 458
 msgid "Virtual IPv4 Address Pool"
-msgstr ""
+msgstr "Virtual IPv4 Address Pool"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/OpenVPN/status.volt, line: 134
 msgid "Virtual IPv6 Address"
-msgstr ""
+msgstr "Virtual IPv6 Address"
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 477
 msgid "Virtual IPv6 Address Pool"
-msgstr ""
+msgstr "Virtual IPv6 Address Pool"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 521
 msgid "Virtual Service"
-msgstr ""
+msgstr "Virtual Служба"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 629
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 741
 msgid "Virtual Services"
-msgstr ""
+msgstr "Virtual Службаs"
 #
 # File: /usr/core/src/opnsense/mvc/app/library/OPNsense/OpenVPN/ViscosityVisz.php, line: 43
 msgid "Viscosity (visz)"
@@ -20215,7 +20215,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Diagnostics/Netflow.php, line: 72
 #, php-format
 msgid "WAN interfaces missing in listening interfaces: %s"
-msgstr ""
+msgstr "WAN інтерфейсs missing in listening інтерфейсs: %s"
 #
 # File: /usr/plugins/sysutils/smart/src/opnsense/mvc/app/views/OPNsense/Smart/index.volt, line: 37
 msgid "WARNING"
@@ -20232,12 +20232,12 @@ msgstr ""
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 549
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1504
 msgid "WINS Servers"
-msgstr ""
+msgstr "WINS Серверs"
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 744
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 378
 msgid "WINS servers"
-msgstr ""
+msgstr "WINS серверs"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3451
 # File: /usr/core/src/www/interfaces.php, line: 3479
@@ -20440,11 +20440,11 @@ msgstr ""
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/models/OPNsense/Quagga/STATICd.php, line: 63
 msgid "When no interface is provided, at least a gateway must be offered"
-msgstr ""
+msgstr "When no інтерфейс is provided, at least a gateway must be offered"
 #
 # File: /usr/core/src/www/services_ntpd.php, line: 304
 msgid "When no servers are specified NTP will be completely disabled."
-msgstr ""
+msgstr "When no серверs are specified NTP will be completely disabled."
 #
 # File: /usr/core/src/www/interfaces.php, line: 3362
 msgid ""
@@ -20558,7 +20558,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/OpenVPN/OpenVPN.php, line: 100
 msgid "When specifying a bridge gateway, a pool should also be provided."
-msgstr ""
+msgstr "When specifying a bridge шлюз, a pool should also be provided."
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 788
 msgid ""
@@ -20735,7 +20735,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces_wireless_edit.php, line: 145
 msgid "Wireless clone configuration"
-msgstr ""
+msgstr "Wireless clone конфігурація"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 699
 msgid ""
@@ -20834,7 +20834,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 229
 msgid "You can not assign a gateway to a rule that applies to IPv4 and IPv6"
-msgstr ""
+msgstr "You can not assign a шлюз to a rule that applies to IPv4 and IPv6"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 249
 msgid ""
@@ -20856,15 +20856,15 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 234
 msgid "You can not assign an IPv4 gateway group on an IPv6 rule."
-msgstr ""
+msgstr "You can not assign an IPv4 шлюз group on an IPv6 rule."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 237
 msgid "You can not assign an IPv6 gateway group on an IPv4 rule."
-msgstr ""
+msgstr "You can not assign an IPv6 шлюз group on an IPv4 rule."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 242
 msgid "You can not assign the IPv4 Gateway to an IPv6 filter rule."
-msgstr ""
+msgstr "You can not assign the IPv4 Шлюз to an IPv6 filter rule."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 254
 msgid ""
@@ -20873,7 +20873,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 245
 msgid "You can not assign the IPv6 Gateway to an IPv4 filter rule."
-msgstr ""
+msgstr "You can not assign the IPv6 Шлюз to an IPv4 filter rule."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 257
 msgid ""
@@ -20883,16 +20883,16 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 320
 # File: /usr/core/src/www/firewall_scrub_edit.php, line: 109
 msgid "You can not use IPv4 addresses in IPv6 rules."
-msgstr ""
+msgstr "You can not use IPv4 addresses in IPv6 rules."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 318
 # File: /usr/core/src/www/firewall_scrub_edit.php, line: 106
 msgid "You can not use IPv6 addresses in IPv4 rules."
-msgstr ""
+msgstr "You can not use IPv6 addresses in IPv4 rules."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 333
 msgid "You can not use an IPv4 or IPv6 address in combined IPv4 + IPv6 rules."
-msgstr ""
+msgstr "You can not use an IPv4 or IPv6 address in combined IPv4 + IPv6 rules."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 345
 msgid ""
@@ -20901,11 +20901,11 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 793
 msgid "You can only have one interface configured as 6to4."
-msgstr ""
+msgstr "You can only have one інтерфейс configured as 6to4."
 #
 # File: /usr/core/src/www/interfaces.php, line: 781
 msgid "You can only have one interface configured in 6rd with same prefix."
-msgstr ""
+msgstr "You can only have one інтерфейс configured in 6rd with same prefix."
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 134
 msgid ""
@@ -20983,7 +20983,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 293
 msgid "You can select multiple interfaces here."
-msgstr ""
+msgstr "You can select multiple інтерфейсs here."
 #
 # File: /usr/core/src/www/system_usermanager.php, line: 200
 msgid "You cannot delete yourself."
@@ -21001,7 +21001,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/DHCRelay/DHCRelay.php, line: 57
 msgid "You cannot mix address families for destinations."
-msgstr ""
+msgstr "You cannot mix адреса families for destinations."
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 125
 msgid "You cannot override the WAN IP if you have a STUN host set."
@@ -21009,7 +21009,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 115
 msgid "You cannot select the external interface as an internal interface."
-msgstr ""
+msgstr "You cannot select the external інтерфейс as an internal інтерфейс."
 #
 # File: /usr/core/src/www/interfaces_assign.php, line: 215
 #, php-format
@@ -21061,19 +21061,19 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 247
 msgid "You cannot use the broadcast address in the ending subnet range."
-msgstr ""
+msgstr "You cannot use the broadcast адреса in the ending subnet range."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Vip.php, line: 99
 msgid "You cannot use the broadcast address."
-msgstr ""
+msgstr "You cannot use the broadcast адреса."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 244
 msgid "You cannot use the network address in the starting subnet range."
-msgstr ""
+msgstr "You cannot use the network адреса in the starting subnet range."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Interfaces/Vip.php, line: 92
 msgid "You cannot use the network address."
-msgstr ""
+msgstr "You cannot use the network адреса."
 #
 # File: /usr/core/src/www/diag_backup.php, line: 257
 # File: /usr/core/src/www/diag_defaults.php, line: 40
@@ -21131,7 +21131,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces.php, line: 758
 # File: /usr/core/src/www/interfaces.php, line: 824
 msgid "You must enter a valid hexadecimal number for the IPv6 interface ID."
-msgstr ""
+msgstr "You must enter a valid hexadecimal number for the IPv6 інтерфейс ID."
 #
 # File: /usr/core/src/www/interfaces.php, line: 738
 # File: /usr/core/src/www/interfaces.php, line: 800
@@ -21159,7 +21159,7 @@ msgstr ""
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn/wizard.inc, line: 687
 msgid "You must specify a 'Tunnel network'."
-msgstr ""
+msgstr "You must specify a 'Tunnel мережа'."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 205
 # File: /usr/core/src/www/services_dhcpv6.php, line: 184
@@ -21197,7 +21197,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 122
 msgid "You must specify a valid ip address in the 'Override WAN address' field"
-msgstr ""
+msgstr "You must specify a valid ip адреса in the 'Override WAN адреса' field"
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 167
 #, php-format
@@ -21234,7 +21234,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 119
 msgid "You must specify at least one internal interface."
-msgstr ""
+msgstr "You must specify at least one internal інтерфейс."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 210
 # File: /usr/core/src/www/services_dhcpv6.php, line: 188
@@ -21273,7 +21273,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 975
 msgid "You need both a filename and a boot server configured for this to work."
-msgstr ""
+msgstr "You need both a filename and a boot сервер configured for this to work."
 #
 # File: /usr/core/src/www/interfaces.php, line: 750
 # File: /usr/core/src/www/interfaces.php, line: 811
@@ -21293,7 +21293,7 @@ msgstr ""
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 186
 msgid "Your acme-client config contains no errors."
-msgstr ""
+msgstr "Your acme-клієнт config contains no errors."
 #
 # File: /usr/core/src/www/authgui.inc, line: 420
 msgid "Your browser must support cookies to login."
@@ -21359,15 +21359,15 @@ msgstr ""
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 72
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 171
 msgid "acme-client config contains critical errors"
-msgstr ""
+msgstr "acme-клієнт config contains critical errors"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 178
 msgid "acme-client config contains minor errors"
-msgstr ""
+msgstr "acme-клієнт config contains minor errors"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 185
 msgid "acme-client config test result"
-msgstr ""
+msgstr "acme-клієнт config test result"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_log.volt, line: 704
 msgid "action"
@@ -21399,7 +21399,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 43
 # File: /usr/core/src/www/guiconfig.inc, line: 327
 msgid "address"
-msgstr ""
+msgstr "адреса"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/tabbed_dialog.volt, line: 110
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 972
@@ -21414,7 +21414,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Firewall/FieldTypes/GroupField.php, line: 49
 msgid "all OpenVPN interfaces"
-msgstr ""
+msgstr "all OpenVPN інтерфейсs"
 #
 # File: /usr/plugins/net/upnp/src/www/status_upnp.php, line: 101
 msgid "all currently connected sessions"
@@ -21497,7 +21497,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 1211
 msgid "clone client"
-msgstr ""
+msgstr "clone клієнт"
 #
 # File: /usr/plugins/net/zerotier/src/opnsense/mvc/app/views/OPNsense/Zerotier/overview.volt, line: 120
 # File: /usr/plugins/net/zerotier/src/opnsense/mvc/app/views/OPNsense/Zerotier/overview.volt, line: 218
@@ -21511,7 +21511,7 @@ msgstr ""
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/accounts.volt, line: 83
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/certificates.volt, line: 102
 msgid "configuration error"
-msgstr ""
+msgstr "конфігурація error"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 564
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 583
@@ -21544,7 +21544,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 1208
 msgid "delete client"
-msgstr ""
+msgstr "delete клієнт"
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 726
 msgid "delete selected"
@@ -21816,11 +21816,11 @@ msgstr ""
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 341
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 379
 msgid "interface name"
-msgstr ""
+msgstr "інтерфейс name"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Diagnostics/FirewallController.php, line: 110
 msgid "interfaces"
-msgstr ""
+msgstr "інтерфейсs"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/accounts.volt, line: 87
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/certificates.volt, line: 106
@@ -21846,7 +21846,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/diag_authentication.php, line: 41
 msgid "is not a valid authentication server"
-msgstr ""
+msgstr "is not a valid authentication сервер"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1695
 msgid "keep state"
@@ -21933,7 +21933,7 @@ msgstr ""
 #
 # File: /usr/plugins/security/maltrail/src/etc/inc/plugins.inc.d/maltrail.inc, line: 50
 msgid "maltrail server"
-msgstr ""
+msgstr "maltrail сервер"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 270
 msgid "max Size"
@@ -22208,7 +22208,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Base/ApiMutableServiceControllerBase.php, line: 250
 # File: /usr/core/src/www/guiconfig.inc, line: 529
 msgid "restart service"
-msgstr ""
+msgstr "restart служба"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1257
 msgid "retries"
@@ -22339,7 +22339,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Base/ApiMutableServiceControllerBase.php, line: 249
 # File: /usr/core/src/www/guiconfig.inc, line: 552
 msgid "start service"
-msgstr ""
+msgstr "start служба"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_states.volt, line: 221
 msgid "state id"
@@ -22360,7 +22360,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Base/ApiMutableServiceControllerBase.php, line: 248
 # File: /usr/core/src/www/guiconfig.inc, line: 540
 msgid "stop service"
-msgstr ""
+msgstr "stop служба"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1704
 msgid "synproxy state"
@@ -22666,7 +22666,7 @@ msgstr ""
 #
 # File: /usr/lang/src/config.php, line: 62
 msgid "Prefer privacy addresses and use them over the normal addresses"
-msgstr ""
+msgstr "Prefer privacy адресаes and use them over the normal адресаes"
 #
 # File: /usr/lang/src/config.php, line: 63
 msgid "Randomize PID's (see src/sys/kern/kern_fork.c: sysctl_kern_randompid())"
@@ -22697,7 +22697,7 @@ msgstr ""
 #
 # File: /usr/lang/src/config.php, line: 69
 msgid "Set to 1 to enable filtering on the bridge interface"
-msgstr ""
+msgstr "Set to 1 to enable filtering on the bridge інтерфейс"
 #
 # File: /usr/lang/src/config.php, line: 70
 msgid "TCP Offload Engine"
@@ -24471,7 +24471,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 769
 msgid "A list of server IP addresses to relay DHCP requests to."
-msgstr ""
+msgstr "A list of server IP-адресаes to relay DHCP requests to."
 #
 # File: /usr/lang/src/controllers.php, line: 770
 msgid ""
@@ -24498,7 +24498,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 774
 msgid "A virtual_server may be specified here."
-msgstr ""
+msgstr "A virtual_сервер may be specified here."
 #
 # File: /usr/lang/src/controllers.php, line: 775
 msgid "ACL Entries"
@@ -24683,7 +24683,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 818
 msgid "Access Token used for the Zerotier API service"
-msgstr ""
+msgstr "Access Token used for the Zerotier API служба"
 #
 # File: /usr/lang/src/controllers.php, line: 819
 msgid "Access log target"
@@ -24691,7 +24691,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 820
 msgid "According to the service type path can be a file or a directory."
-msgstr ""
+msgstr "According to the служба type path can be a file or a directory."
 #
 # File: /usr/lang/src/controllers.php, line: 821
 msgid "Account Name"
@@ -24711,7 +24711,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 825
 msgid "Accounting-Server"
-msgstr ""
+msgstr "Accounting-Сервер"
 #
 # File: /usr/lang/src/controllers.php, line: 826
 # File: /usr/lang/src/models.php, line: 219
@@ -24812,7 +24812,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 840
 msgid "Active Check Servers"
-msgstr ""
+msgstr "Active Check Серверs"
 #
 # File: /usr/lang/src/controllers.php, line: 841
 msgid ""
@@ -24944,7 +24944,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 870
 msgid "Add servers to this backend. Use TAB key to complete typing."
-msgstr ""
+msgstr "Add серверs to this backend. Use TAB key to complete typing."
 #
 # File: /usr/lang/src/controllers.php, line: 871
 msgid ""
@@ -24970,7 +24970,7 @@ msgstr ""
 #
 # File: /usr/lang/src/controllers.php, line: 875
 msgid "Add the log level of each message after the subsystem (e.g. [IKE2])."
-msgstr ""
+msgstr "Add the log level of each message after the subсистема (e.g. [IKE2])."
 #
 # File: /usr/lang/src/controllers.php, line: 876
 msgid "Add the parameter \"all\" after next-hop-self command."
@@ -25025,15 +25025,15 @@ msgstr "Адреса"
 #
 # File: /usr/lang/src/controllers.php, line: 884
 msgid "Address Family"
-msgstr ""
+msgstr "Адреса Family"
 #
 # File: /usr/lang/src/controllers.php, line: 885
 msgid "Address Type"
-msgstr ""
+msgstr "Адреса Type"
 #
 # File: /usr/lang/src/controllers.php, line: 886
 msgid "Address on which the RESTful interface should be available"
-msgstr ""
+msgstr "Адреса on which the RESTful interface should be available"
 #
 # File: /usr/lang/src/controllers.php, line: 887
 msgid ""
