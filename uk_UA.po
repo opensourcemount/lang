@@ -684,15 +684,15 @@ msgstr "(залишити порожнім для будь-якого)"
 #
 # File: /usr/core/src/www/firewall_nat_out.php, line: 318
 msgid "(no automatic rules are being generated)"
-msgstr ""
+msgstr "(автоматичні правила не генеруються)"
 #
 # File: /usr/core/src/www/firewall_nat_out.php, line: 292
 msgid "(no manual rules can be used)"
-msgstr ""
+msgstr "(ручні правила не можуть використовуватися)"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/OpenVPN/Api/ExportController.php, line: 189
 msgid "(none) Exclude certificate from export"
-msgstr ""
+msgstr "(немає) Виключити сертифікат з експорту"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 503
 msgid "(other)"
