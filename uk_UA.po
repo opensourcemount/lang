@@ -1001,27 +1001,27 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 3625
 msgid "802.1X Server IP Address"
-msgstr ""
+msgstr "IP-адреса сервера 802.1X"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3649
 msgid "802.1X Server IP Address (2)"
-msgstr ""
+msgstr "IP-адреса сервера 802.1X (2)"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3634
 msgid "802.1X Server Port"
-msgstr ""
+msgstr "Порт сервера 802.1X"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3659
 msgid "802.1X Server Port (2)"
-msgstr ""
+msgstr "Порт сервера 802.1X (2)"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3643
 msgid "802.1X Server Shared Secret"
-msgstr ""
+msgstr "Спільний секрет сервера 802.1X"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3669
 msgid "802.1X Server Shared Secret (2)"
-msgstr ""
+msgstr "Спільний секрет сервера 802.1X (2)"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 680
 msgid "90 days, 24 hour average"
