@@ -3456,11 +3456,11 @@ msgstr "Кандидат"
 #
 # File: /usr/core/src/www/interfaces.php, line: 673
 msgid "Cannot assign a MAC address to this type of interface."
-msgstr ""
+msgstr "Cannot assign a MAC-адреса to this type of interface."
 #
 # File: /usr/core/src/www/interfaces.php, line: 667
 msgid "Cannot assign an IP configuration type to a tunnel interface."
-msgstr ""
+msgstr "Cannot assign an IP configuration type to a tunnel інтерфейс."
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Monit/Monit.php, line: 189
 #, php-format
@@ -3640,11 +3640,11 @@ msgstr ""
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 306
 msgid "Change server weight"
-msgstr ""
+msgstr "Change сервер weight"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 545
 msgid "Change server weight (bulk)"
-msgstr ""
+msgstr "Change сервер weight (bulk)"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/backup_history.volt, line: 263
 msgid "Changes between selected versions"
@@ -3695,7 +3695,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/scripts/interfaces/carp_global_status.php, line: 51
 msgid "Check link status on all interfaces with configured CARP VIPs."
-msgstr ""
+msgstr "Check link status on all інтерфейсs with configured CARP VIPs."
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/firmware.volt, line: 889
 msgid "Checked on"
@@ -3772,7 +3772,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 908
 # File: /usr/core/src/www/firewall_scrub_edit.php, line: 310
 msgid "Choose on which interface packets must come in to match this rule."
-msgstr ""
+msgstr "Choose on which інтерфейс packets must come in to match this rule."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1269
 msgid ""
@@ -3805,7 +3805,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 571
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 458
 msgid "Choose which interface this rule applies to."
-msgstr ""
+msgstr "Choose which інтерфейс this rule applies to."
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 930
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1008
@@ -3898,7 +3898,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 455
 msgid "Client Configuration (mode-cfg)"
-msgstr ""
+msgstr "Клієнт Configuration (mode-cfg)"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/reverse_proxy.volt, line: 476
 msgid "Client IPs"
@@ -3906,7 +3906,7 @@ msgstr "IP-адреси клієнтів"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1525
 msgid "Client Management Port"
-msgstr ""
+msgstr "Клієнт Management Port"
 #
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 312
 msgid "Client identifier"
@@ -3914,11 +3914,11 @@ msgstr "Ідентифікатор клієнта"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 305
 msgid "Client management port"
-msgstr ""
+msgstr "Клієнт management port"
 #
 # File: /usr/core/src/opnsense/mvc/app/library/OPNsense/Backup/GDrive.php, line: 57
 msgid "Client-ID in the Google cloud console"
-msgstr ""
+msgstr "Клієнт-ID in the Google cloud console"
 #
 # File: /usr/core/src/www/status_ntpd.php, line: 247
 msgid "Clock Altitude"
@@ -4509,7 +4509,7 @@ msgstr "Копіювати сертифікат"
 #
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 305
 msgid "Copy my MAC address"
-msgstr ""
+msgstr "Copy my MAC-адреса"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/FirmwareController.php, line: 279
 msgid "Could not authenticate the selected mirror."
@@ -4546,7 +4546,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/scripts/interfaces/carp_global_status.php, line: 53
 msgid "Could not locate any defined CARP interfaces."
-msgstr ""
+msgstr "Could not locate any defined CARP інтерфейсs."
 #
 # File: /usr/core/src/www/system_general.php, line: 100
 msgid "Could not read uploaded file."
@@ -4603,7 +4603,7 @@ msgstr "Створити Phase1"
 #
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 373
 msgid "Create a static ARP table entry for this MAC and IP address pair."
-msgstr ""
+msgstr "Create a static ARP table entry for this MAC and IP-адреса pair."
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 264
 msgid ""
@@ -4732,7 +4732,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 1131
 msgid "DHCP Static Mappings for this interface."
-msgstr ""
+msgstr "DHCP Static Mappings for this інтерфейс."
 #
 # File: /usr/core/src/www/system_advanced_network.php, line: 401
 msgid "DHCP Unique Identifier"
