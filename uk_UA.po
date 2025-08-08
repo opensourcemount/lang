@@ -6081,7 +6081,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Trust/ca.volt, line: 216
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Trust/cert.volt, line: 322
 msgid "Edit Certificate"
-msgstr ""
+msgstr "редагувати сертифікат"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/validations.volt, line: 151
 msgid "Edit Challenge Type"
@@ -6089,15 +6089,15 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/connections.volt, line: 391
 msgid "Edit Child"
-msgstr ""
+msgstr "редагувати Child"
 #
 # File: /usr/plugins/net/freeradius/src/opnsense/mvc/app/views/OPNsense/Freeradius/client.volt, line: 117
 msgid "Edit Client"
-msgstr ""
+msgstr "редагувати клієнт"
 #
 # File: /usr/plugins/net-mgmt/nrpe/src/opnsense/mvc/app/views/OPNsense/Nrpe/general.volt, line: 77
 msgid "Edit Commands"
-msgstr ""
+msgstr "редагувати Commands"
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/bgp.volt, line: 324
 msgid "Edit Community Lists"
@@ -6105,19 +6105,19 @@ msgstr ""
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 1306
 msgid "Edit Condition"
-msgstr ""
+msgstr "редагувати Condition"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IPsec/connections.volt, line: 388
 msgid "Edit Connection"
-msgstr ""
+msgstr "редагувати Connection"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/index.volt, line: 817
 msgid "Edit Credential"
-msgstr ""
+msgstr "редагувати Credential"
 #
 # File: /usr/plugins/net/freeradius/src/opnsense/mvc/app/views/OPNsense/Freeradius/dhcp.volt, line: 120
 msgid "Edit DHCP"
-msgstr ""
+msgstr "редагувати Dhcp"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/DHCRelay/relay.volt, line: 118
 msgid "Edit DHCP destination"
@@ -6129,12 +6129,12 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Core/dashboard.volt, line: 80
 msgid "Edit Dashboard"
-msgstr ""
+msgstr "редагувати Dashboard"
 #
 # File: /usr/plugins/mail/postfix/src/opnsense/mvc/app/views/OPNsense/Postfix/domain.volt, line: 85
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/reverse_proxy.volt, line: 584
 msgid "Edit Domain"
-msgstr ""
+msgstr "редагувати Domain"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overrides.volt, line: 303
 msgid "Edit Domain Override"
@@ -6174,19 +6174,19 @@ msgstr ""
 #
 # File: /usr/plugins/dns/dnscrypt-proxy/src/opnsense/mvc/app/views/OPNsense/Dnscryptproxy/general.volt, line: 168
 msgid "Edit Forwarders"
-msgstr ""
+msgstr "редагувати Forwarders"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Interface/gre.volt, line: 86
 msgid "Edit GRE"
-msgstr ""
+msgstr "редагувати Gre"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Routing/configuration.volt, line: 159
 msgid "Edit Gateway"
-msgstr ""
+msgstr "редагувати шлюз"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Interface/gif.volt, line: 86
 msgid "Edit Gif"
-msgstr ""
+msgstr "редагувати Gif"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 1308
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/group.volt, line: 69
