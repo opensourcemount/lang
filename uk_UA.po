@@ -1226,35 +1226,35 @@ msgstr "A valid IP-адреса for 'My identifier' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 328
 msgid "A valid IP address for 'Peer identifier' must be specified."
-msgstr ""
+msgstr "A valid IP-адреса for 'Peer identifier' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 139
 msgid "A valid IP address for 'WINS Server #1' must be specified."
-msgstr ""
+msgstr "A valid IP-адреса for 'WINS Server #1' must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 142
 msgid "A valid IP address for 'WINS Server #2' must be specified."
-msgstr ""
+msgstr "A valid IP-адреса for 'WINS Server #2' must be specified."
 #
 # File: /usr/core/src/www/interfaces.php, line: 897
 msgid "A valid IP address list must be specified to reject DHCP leases from."
-msgstr ""
+msgstr "A valid IP-адреса list must be specified to reject DHCP leases from."
 #
 # File: /usr/core/src/www/system_general.php, line: 151
 # File: /usr/core/src/www/system_general.php, line: 166
 #, php-format
 msgid "A valid IP address must be specified for DNS server \"%s\"."
-msgstr ""
+msgstr "A valid IP-адреса must be specified for DNS server \"%s\"."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 171
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 152
 msgid "A valid IP address must be specified for the gateway."
-msgstr ""
+msgstr "A valid IP-адреса must be specified for the gateway."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 240
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 196
 msgid "A valid IP address must be specified for the network boot server."
-msgstr ""
+msgstr "A valid IP-адреса must be specified for the network boot server."
 #
 # File: /usr/core/src/www/services_dhcp.php, line: 183
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 167
@@ -1276,7 +1276,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Unbound/FieldTypes/UnboundServerField.php, line: 59
 msgid "A valid IP address must be specified, for example 192.168.100.10."
-msgstr ""
+msgstr "A valid IP-адреса must be specified, for example 192.168.100.10."
 #
 # File: /usr/core/src/www/services_dnsmasq_domainoverride_edit.php, line: 89
 msgid ""
@@ -1292,7 +1292,7 @@ msgstr "Необхідно вказати дійсну IP-адресу."
 # File: /usr/core/src/www/services_dhcp.php, line: 237
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 193
 msgid "A valid IP address or hostname must be specified for the TFTP server."
-msgstr ""
+msgstr "A valid IP-адреса or hostname must be specified for the TFTP server."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 104
 msgid ""
@@ -1312,7 +1312,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 162
 msgid "A valid IPv6 address must be specified for the gateway."
-msgstr ""
+msgstr "A valid IPv6 address must be specified for the gateway."
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 165
 # File: /usr/core/src/www/services_router_advertisements.php, line: 116
@@ -1357,7 +1357,7 @@ msgstr "Потрібен дійсний URI."
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 204
 msgid "A valid URL must be specified for the network bootfile."
-msgstr ""
+msgstr "A valid URL must be specified for the мережа bootfile."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 305
 msgid ""
@@ -1373,7 +1373,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/interfaces.php, line: 888
 msgid "A valid alias IP address must be specified."
-msgstr ""
+msgstr "A valid alias IP-адреса must be specified."
 #
 # File: /usr/core/src/www/interfaces.php, line: 891
 msgid "A valid alias subnet bit count must be specified."
@@ -1438,7 +1438,7 @@ msgstr ""
 # File: /usr/core/src/www/interfaces_ppps_edit.php, line: 173
 #, php-format
 msgid "A valid gateway IP address must be specified for %s."
-msgstr ""
+msgstr "A valid gateway IP-адреса must be specified for %s."
 #
 # File: /usr/core/src/www/system_gateway_groups_edit.php, line: 70
 msgid "A valid gateway group name must be specified."
@@ -1461,13 +1461,13 @@ msgstr ""
 # File: /usr/core/src/www/interfaces_ppps_edit.php, line: 170
 #, php-format
 msgid "A valid local IP address must be specified for %s."
-msgstr ""
+msgstr "A valid local IP-адреса must be specified for %s."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 231
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 279
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 288
 msgid "A valid local network IP address must be specified."
-msgstr ""
+msgstr "A valid local network IP-адреса must be specified."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 233
 msgid ""
