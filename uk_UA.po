@@ -252,46 +252,46 @@ msgstr "%s не є дійсним початковим портом джерел
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 272
 #, php-format
 msgid "%s is only valid if the gateway is set to 'default'."
-msgstr ""
+msgstr "%s дійсно лише якщо шлюз встановлено на 'default'."
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 269
 #, php-format
 msgid "%s is only valid with protocol tcp."
-msgstr ""
+msgstr "%s дійсно лише з протоколом tcp."
 #
 # File: /usr/core/src/opnsense/mvc/app/library/OPNsense/Core/Config.php, line: 478
 #, php-format
 msgid "%s made changes"
-msgstr ""
+msgstr "%s внесено зміни"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 111
 #, php-format
 msgid "%s minute ago"
-msgstr ""
+msgstr "%s хвилину тому"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 113
 #, php-format
 msgid "%s minutes ago"
-msgstr ""
+msgstr "%s хвилин тому"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 139
 #, php-format
 msgid "%s month ago"
-msgstr ""
+msgstr "%s місяць тому"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 141
 #, php-format
 msgid "%s months ago"
-msgstr ""
+msgstr "%s місяців тому"
 #
 # File: /usr/core/src/www/firewall_nat_out.php, line: 571
 #, php-format
 msgid "%s networks"
-msgstr ""
+msgstr "%s мереж"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/alias.volt, line: 198
 msgid "%s out of %s selected"
-msgstr ""
+msgstr "%s з %s вибрано"
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 1085
 #, php-format
@@ -300,42 +300,42 @@ msgid ""
 "the first rule to match a packet will be executed). This means that if you "
 "use block rules, you will have to pay attention to the rule order. "
 "Everything that is not explicitly passed is blocked by default."
-msgstr ""
+msgstr "%s правила оцінюються за принципом першого збігу за замовчуванням (тобто буде виконана дія першого правила, яке відповідає пакету). Це означає, що якщо ви використовуєте правила блокування, вам доведеться звернути увагу на порядок правил. Все, що не дозволено явно, блокується за замовчуванням."
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 104
 #, php-format
 msgid "%s second ago"
-msgstr ""
+msgstr "%s секунду тому"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 106
 #, php-format
 msgid "%s seconds ago"
-msgstr ""
+msgstr "%s секунд тому"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 612
 #, php-format
 msgid "%s subnet"
-msgstr ""
+msgstr "%s підмережа"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 132
 #, php-format
 msgid "%s week ago"
-msgstr ""
+msgstr "%s тиждень тому"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 134
 #, php-format
 msgid "%s weeks ago"
-msgstr ""
+msgstr "%s тижнів тому"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 146
 #, php-format
 msgid "%s year ago"
-msgstr ""
+msgstr "%s рік тому"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/SystemController.php, line: 148
 #, php-format
 msgid "%s years ago"
-msgstr ""
+msgstr "%s років тому"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1587
 #, php-format
@@ -347,12 +347,12 @@ msgstr "Ні"
 msgid ""
 "%s1%s -- startup info + connection initiated messages + non-fatal encryption "
 "& net errors."
-msgstr ""
+msgstr "(Додати/Редагувати) Псевдонім"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1589
 #, php-format
 msgid "%s2,3%s -- show TLS negotiations & route info."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1590
 #, php-format
@@ -366,19 +366,19 @@ msgid ""
 "%s5%s -- Output R and W characters to the console for each packet read and "
 "write, uppercase is used for TCP/UDP packets and lowercase is used for TUN/"
 "TAP packets."
-msgstr ""
+msgstr "(Додати/Редагувати) Розклад"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 1124
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1592
 #, php-format
 msgid "%s6%s-%s11%s -- Debug info range."
-msgstr ""
+msgstr "(Додати/Редагувати) Віртуальний IP"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 597
 msgid ""
 "%sApply changes:%s Apply all changes by syncing all shown SSL certificates "
 "into running HAProxy service."
-msgstr ""
+msgstr "(Додати/Редагувати) Віртуальний сервер"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 744
 msgid ""
@@ -388,50 +388,50 @@ msgid ""
 "distribution. A Backend Pool must also be configured if you only have a "
 "single server. The same Backend Pool may be used for multiple Public "
 "Services."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило NAT"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 256
 msgid ""
 "%sBuypass:%s A commercial, european certificate authority, based in Norway. "
 "Check out %stheir documentation%s for details about rate-limits and the "
 "usage policy."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило вихідного NAT"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2525
 #, php-format
 msgid ""
 "%sClick here%s for additional PPPoE configuration options. Save first if you "
 "made changes."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило переадресації портів"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2612
 #, php-format
 msgid ""
 "%sClick here%s for additional PPTP and L2TP configuration options. Save "
 "first if you made changes."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило 1:1"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2529
 #, php-format
 msgid ""
 "%sClick here%s for advanced PPPoE configuration options and MLPPP "
 "configuration."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило трафіку"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2614
 #, php-format
 msgid "%sClick here%s for advanced PPTP and L2TP configuration options."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило формування трафіку"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2448
 #, php-format
 msgid "%sClick here%s to create a PPP configuration."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило обмеження"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2446
 #, php-format
 msgid "%sClick here%s to edit PPP configuration."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило планувальника"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 759
 msgid ""
@@ -439,7 +439,7 @@ msgid ""
 "responses and other connection data and match it against predefined "
 "patterns. Use these powerful patterns to compose a condition that may be "
 "used in multiple Rules."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило черги"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/validations.volt, line: 114
 msgid ""
@@ -447,25 +447,25 @@ msgid ""
 "recommended when using this plugin. It requires that you control the DNS for "
 "your domain name and that your DNS provider is supported both %sby acme.sh%s "
 "and this plugin."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило DNP"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 263
 msgid ""
 "%sEnable%s the plugin: When enabling this plugin on the %ssettings%s page, a "
 "lightweight service is started and a cron job is added to run periodic tasks."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило Layer 7"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 257
 msgid ""
 "%sGoogle:%s A commercial certificate authority. More information is "
 "available from %stheir documentation%s."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило нормалізації"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 774
 msgid ""
 "%sGroup:%s A optional list containing one or more users. Groups usually make "
 "it easier to manage permissions for a large number of users"
-msgstr ""
+msgstr "(Додати/Редагувати) Правило NPt"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 758
 msgid ""
@@ -473,31 +473,31 @@ msgid ""
 "by %sBackend Pools%s to determine if a server is still able to respond to "
 "client requests. If a server fails a health check it will automatically be "
 "removed from a Backend Pool and healthy servers are automatically re-added."
-msgstr ""
+msgstr "(Додати/Редагувати) Правило віртуального сервера"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1715
 #, php-format
 msgid "%sKeep state%s is used for stateful connection tracking."
-msgstr ""
+msgstr "(Додати/Редагувати) Пул"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 599
 msgid ""
 "%sNOTE:%s Changes can only be applied for Public Services that already exist "
 "in the running HAProxy service. When adding or removing Public Services "
 "HAProxy must be reloaded or restarted."
-msgstr ""
+msgstr "(Додати/Редагувати) Монітор"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 558
 msgid ""
 "%sNOTE:%s These changes will not be persisted across restarts of HAProxy."
-msgstr ""
+msgstr "(Додати/Редагувати) Налаштування"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 612
 msgid ""
 "%sNOTE:%s When enabling multiple cron jobs, please adjust them so that they "
 "do not run at the same time. Check the %scron settings page%s for more cron "
 "job details and additional customization options."
-msgstr ""
+msgstr "(Додати/Редагувати) Сертифікат"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1718
 #, php-format
@@ -505,7 +505,7 @@ msgid ""
 "%sNone%s: Do not use state mechanisms to keep track. This is only useful if "
 "you're doing advanced queueing in certain situations. Please check the "
 "documentation."
-msgstr ""
+msgstr "(Додати/Редагувати) Центр сертифікації"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 745
 msgid ""
@@ -514,61 +514,61 @@ msgid ""
 "data to the selected Backend Pool for load balancing or proxying. Every "
 "Public Service needs to be connected to a %spreviously created Backend "
 "Pool%s."
-msgstr ""
+msgstr "(Додати/Редагувати) Список відкликання сертифікатів"
 #
 # File: /usr/plugins/benchmarks/iperf/src/opnsense/mvc/app/views/OPNsense/iperf/index.volt, line: 47
 msgid "%sResult %s%s"
-msgstr ""
+msgstr "(Додати/Редагувати) Запит на підпис сертифіката"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 760
 msgid ""
 "%sRules:%s Perform a large set of actions if one or more %sConditions%s "
 "match. These Rules may be used in %sBackend Pools%s as well as %sPublic "
 "Services%s."
-msgstr ""
+msgstr "(Додати/Редагувати) Користувача"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/settings.volt, line: 258
 msgid ""
 "%sSSL.com:%s A commercial, globally trusted certificate authority. They "
 "provide an %sextensive guide%s for using their paid services with the ACME "
 "protocol."
-msgstr ""
+msgstr "(Додати/Редагувати) Групу"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 731
 msgid ""
 "%sServer Templates:%s A prefix is required to build the server names. "
 "Additionally a service name or FQDN is required to identify the servers this "
 "template initializes"
-msgstr ""
+msgstr "(Додати/Редагувати) Привілей"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 554
 msgid ""
 "%sSet state to drain:%s This removes the server from load balancing. Health "
 "checks will continue to run and it still accepts new persistent connections."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 555
 msgid ""
 "%sSet state to maintenance:%s This disables any traffic to the server. "
 "Health checks will also be disabled."
-msgstr ""
+msgstr "(Додати/Редагувати) Фазу 1"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 553
 msgid "%sSet state to ready:%s This puts the server in normal mode."
-msgstr ""
+msgstr "(Додати/Редагувати) Фазу 2"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 596
 msgid ""
 "%sShow diff:%s Show difference between configured SSL certificates and SSL "
 "certificates from the running HAProxy service."
-msgstr ""
+msgstr "(Додати/Редагувати) Мобільний клієнт"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1716
 #, php-format
 msgid ""
 "%sSloppy state%s works like keep state, but it does not check sequence "
 "numbers. Use it when the firewall does not see all packets."
-msgstr ""
+msgstr "(Додати/Редагувати) Попередньо спільний ключ"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 730
 msgid ""
@@ -576,7 +576,7 @@ msgid ""
 "should be used when communicating with your server. Additionally the TCP or "
 "UDP port that should be used. If unset, the same port the client connected "
 "to will be used."
-msgstr ""
+msgstr "(Додати/Редагувати) Клієнта"
 #
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1717
 #, php-format
@@ -584,13 +584,13 @@ msgid ""
 "%sSynproxy state%s proxies incoming TCP connections to help protect servers "
 "from spoofed TCP SYN floods. This option includes the functionality of keep "
 "state and modulate state combined."
-msgstr ""
+msgstr "(Додати/Редагувати) Клієнт-специфічне перевизначення"
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 773
 msgid ""
 "%sUser:%s A username/password combination. Both secure (encrypted) and "
 "insecure (unencrypted) passwords can be used."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 1122
 #, php-format
@@ -605,13 +605,13 @@ msgstr "Ні"
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn.inc, line: 332
 #, possible-php-format
 msgid "'%s' in '%s' is not a single valid %s CIDR range"
-msgstr ""
+msgstr "(Додати/Редагувати) Користувача"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn.inc, line: 331
 #, possible-php-format
 msgid ""
 "'%s' in '%s' may only contain valid %s CIDR range(s) separated by commas."
-msgstr ""
+msgstr "(Додати/Редагувати) Групу"
 #
 # File: /usr/plugins/dns/rfc2136/src/www/services_rfc2136_edit.php, line: 190
 msgid "'All' will update all available record types."
@@ -619,26 +619,26 @@ msgstr "Всі"
 #
 # File: /usr/core/src/www/services_ntpd.php, line: 359
 msgid "(0-15)"
-msgstr ""
+msgstr "(Додати/Редагувати) Інтерфейс"
 #
 # File: /usr/core/src/www/services_ntpd_gps.php, line: 411
 # File: /usr/core/src/www/services_ntpd_pps.php, line: 135
 msgid "(0-16)"
-msgstr ""
+msgstr "(Додати/Редагувати) Міст"
 #
 # File: /usr/core/src/www/services_ntpd_gps.php, line: 489
 # File: /usr/core/src/www/services_ntpd_pps.php, line: 179
 msgid "(1 to 4 characters)"
-msgstr ""
+msgstr "(Додати/Редагувати) GIF"
 #
 # File: /usr/core/src/www/services_ntpd.php, line: 369
 msgid "(2-99)"
-msgstr ""
+msgstr "(Додати/Редагувати) GRE"
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 334
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 343
 msgid "(Kbits/second)"
-msgstr ""
+msgstr "(Додати/Редагувати) LAGG"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Firewall/Api/CategoryController.php, line: 57
 msgid "(No Category)"
@@ -646,33 +646,33 @@ msgstr "Ні"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/alias.volt, line: 635
 msgid "(OpenVPN) user groups"
-msgstr ""
+msgstr "(Додати/Редагувати) QinQ"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/certificates.volt, line: 66
 msgid "(Re-) Import certificate"
-msgstr ""
+msgstr "(Додати/Редагувати) PPP"
 #
 # File: /usr/plugins/security/acme-client/src/opnsense/mvc/app/views/OPNsense/AcmeClient/certificates.volt, line: 408
 msgid ""
 "(Re-) import the selected certificate and associated CA certificates into "
 "the trust storage?"
-msgstr ""
+msgstr "(Додати/Редагувати) VLAN"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 892
 msgid "(Username and Password required)"
-msgstr ""
+msgstr "(Додати/Редагувати) Бездротовий"
 #
 # File: /usr/core/src/www/firewall_nat_out.php, line: 304
 msgid "(automatically generated rules are applied after manual rules)"
-msgstr ""
+msgstr "(Додати/Редагувати) Статичний маршрут"
 #
 # File: /usr/core/src/www/system_usermanager.php, line: 609
 msgid "(confirmation)"
-msgstr ""
+msgstr "(Додати/Редагувати) Шлюз"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/packetcapture.volt, line: 205
 msgid "(de)select all"
-msgstr ""
+msgstr "(Додати/Редагувати) Групу шлюзів"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 770
 msgid "(dst) Address"
@@ -684,44 +684,44 @@ msgstr "Порт"
 #
 # File: /usr/core/src/www/system_usermanager_addprivs.php, line: 206
 msgid "(filter)"
-msgstr ""
+msgstr "(Додати/Редагувати) Хост"
 #
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 579
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 668
 msgid "(leave blank for any)"
-msgstr ""
+msgstr "(Додати/Редагувати) Домен"
 #
 # File: /usr/core/src/www/firewall_nat_out.php, line: 318
 msgid "(no automatic rules are being generated)"
-msgstr ""
+msgstr "(Додати/Редагувати) MX"
 #
 # File: /usr/core/src/www/firewall_nat_out.php, line: 292
 msgid "(no manual rules can be used)"
-msgstr ""
+msgstr "(Додати/Редагувати) Статичне відображення"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/OpenVPN/Api/ExportController.php, line: 189
 msgid "(none) Exclude certificate from export"
-msgstr ""
+msgstr "(Додати/Редагувати) Перевизначення хоста"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 503
 msgid "(other)"
-msgstr ""
+msgstr "(Додати/Редагувати) Перевизначення домену"
 #
 # File: /usr/core/src/www/firewall_nat_out.php, line: 330
 msgid "(outbound NAT is disabled)"
-msgstr ""
+msgstr "(Додати/Редагувати) Переадресацію"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/ping.volt, line: 44
 msgid "(re)start"
-msgstr ""
+msgstr "(Додати/Редагувати) Зону"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/packetcapture.volt, line: 54
 msgid "(re)start capture"
-msgstr ""
+msgstr "(Додати/Редагувати) Запис"
 #
 # File: /usr/core/src/www/interfaces_ppps_edit.php, line: 715
 msgid "(seconds) Default is 0, which disables the timeout feature."
-msgstr ""
+msgstr "(Додати/Редагувати) Список контролю доступу"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 771
 msgid "(src) Address"
@@ -729,284 +729,284 @@ msgstr "Додати"
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 514
 msgid "/tmp RAM disk"
-msgstr ""
+msgstr "(Додати/Редагувати) Ключ"
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 524
 msgid "/tmp RAM usage"
-msgstr ""
+msgstr "(Додати/Редагувати) Зону"
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 494
 msgid "/var/log RAM disk"
-msgstr ""
+msgstr "(Додати/Редагувати) Запис"
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 505
 msgid "/var/log RAM usage"
-msgstr ""
+msgstr "(Додати/Редагувати) Список контролю доступу"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn.inc, line: 165
 msgid "0 (none)"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер DHCP"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn.inc, line: 166
 msgid "1 (default)"
-msgstr ""
+msgstr "(Додати/Редагувати) Статичне відображення"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 797
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 828
 msgid "1 Hour"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер DHCPv6"
 #
 # File: /usr/core/src/www/fbegin.inc, line: 189
 msgid "1 column"
-msgstr ""
+msgstr "(Додати/Редагувати) Статичне відображення"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 423
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 443
 msgid "1 day"
-msgstr ""
+msgstr "(Додати/Редагувати) Ретранслятор DHCP"
 #
 # File: /usr/core/src/www/system_advanced_misc.php, line: 329
 # File: /usr/core/src/www/system_advanced_misc.php, line: 347
 # File: /usr/core/src/www/system_advanced_misc.php, line: 364
 # File: /usr/core/src/www/system_advanced_misc.php, line: 381
 msgid "1 hour"
-msgstr ""
+msgstr "(Додати/Редагувати) Ретранслятор DHCPv6"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 452
 msgid "1 month"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер TFTP"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 429
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 449
 msgid "1 week"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Wake-on-LAN"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 43
 msgid "10 minutes"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер SNMP"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3446
 msgid ""
 "104 (128) bit keys may be entered as 13 ASCII characters or 26 hex digits "
 "preceded by '0x'."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер UPS"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 796
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 827
 msgid "12 Hours"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер SSH"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 442
 msgid "12 hours"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер NTP"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 677
 msgid "14 days, 1 hour average"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер IGMP Proxy"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 681
 msgid "182 days, 24 hour average"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Load Balancer"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 48
 msgid "1GB, 1 hour"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер CARP"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 47
 msgid "1GB, 60 seconds"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер pfsync"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 179
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 216
 msgid "1xx"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер RELAYD"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 424
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 444
 msgid "2 days"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер HAProxy"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 453
 msgid "2 months"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Captive Portal"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 430
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 450
 msgid "2 weeks"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер FTP"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 795
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 826
 msgid "24 Hours"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Universal Plug and Play"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 180
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 217
 msgid "2xx"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Dynamic DNS"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/openvpn.inc, line: 168
 msgid "3 (recommended)"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер DHCP"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 425
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 445
 msgid "3 days"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер PPPoE"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 454
 msgid "3 months"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер L2TP"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 451
 msgid "3 weeks"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер PPTP"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 678
 msgid "30 days, 24 hour average"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер IPsec"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 181
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 218
 msgid "3xx"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер OpenVPN"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 426
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 446
 msgid "4 days"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер WireGuard"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 421
 msgid "4 hours"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Tinc"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3445
 msgid ""
 "40 (64) bit keys may be entered as 5 ASCII characters or 10 hex digits "
 "preceded by '0x'."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Zerotier"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 182
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 219
 msgid "4xx"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Frr"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 427
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 447
 msgid "5 days"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер OSPF"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 46
 msgid "512MB, 1 hour"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер BGP"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 45
 msgid "512MB, 10 minutes"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер RIP"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 44
 msgid "512MB, 60 seconds"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер PIMD"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 183
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/vts.volt, line: 220
 msgid "5xx"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер BFD"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 428
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 448
 msgid "6 days"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер VRRP"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 441
 msgid "6 hours"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Cron"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 679
 msgid "60 days, 24 hour average"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Syslog"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 42
 msgid "60 seconds"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Netdata"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2988
 msgid "6RD Border Relay"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Collectd"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3014
 msgid "6RD IPv4 Prefix address"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Telegraf"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2997
 msgid "6RD IPv4 Prefix length"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Prometheus"
 #
 # File: /usr/core/src/www/interfaces.php, line: 773
 msgid "6RD IPv4 prefix address must be a valid IPv4 address."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Grafana"
 #
 # File: /usr/core/src/www/interfaces.php, line: 776
 msgid "6RD IPv4 prefix length must be a number."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер InfluxDB"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2974
 msgid "6RD Rapid Deployment"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер ElasticSearch"
 #
 # File: /usr/core/src/www/interfaces.php, line: 767
 msgid "6RD border relay gateway must be a valid IPv4 address."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Logstash"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2979
 msgid "6RD prefix"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Kibana"
 #
 # File: /usr/core/src/www/interfaces.php, line: 770
 msgid "6RD prefix must be a valid IPv6 subnet."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Suricata"
 #
 # File: /usr/core/src/www/interfaces.php, line: 764
 msgid "6RD requires an IPv4 configuration type to operate on."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Snort"
 #
 # File: /usr/core/src/www/interfaces.php, line: 1497
 # File: /usr/core/src/www/interfaces.php, line: 1502
 msgid "6rd Tunnel"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер pfBlockerNG"
 #
 # File: /usr/core/src/www/interfaces.php, line: 1498
 # File: /usr/core/src/www/interfaces.php, line: 1503
 msgid "6to4 Tunnel"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер ClamAV"
 #
 # File: /usr/core/src/www/interfaces.php, line: 789
 msgid "6to4 requires an IPv4 configuration type to operate on."
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Squid"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 676
 msgid "7 days, 1 hour average"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер SquidGuard"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/CaptivePortal/vouchers.volt, line: 422
 msgid "8 hours"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер E2Guardian"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3347
 msgid "802.11g"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Privoxy"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3358
 msgid "802.11g only"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Tor"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3349
 msgid "802.11n"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер I2P"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3678
 msgid "802.1X Roaming Preauth"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Shadowsocks"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3625
 msgid "802.1X Server IP Address"
@@ -1026,15 +1026,15 @@ msgstr "Порт"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3643
 msgid "802.1X Server Shared Secret"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Acme"
 #
 # File: /usr/core/src/www/interfaces.php, line: 3669
 msgid "802.1X Server Shared Secret (2)"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Letsencrypt"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 680
 msgid "90 days, 24 hour average"
-msgstr ""
+msgstr "(Додати/Редагувати) Сервер Backup"
 #
 # File: /usr/plugins/dns/rfc2136/src/www/services_rfc2136_edit.php, line: 187
 msgid "A (IPv4)"
