@@ -374,3 +374,360 @@ msgstr "Так"
 
 msgid "Zone"
 msgstr "Зона"
+
+msgid "About"
+msgstr "Про програму"
+
+msgid "Accept"
+msgstr "Прийняти"
+
+msgid "Access"
+msgstr "Доступ"
+
+msgid "Account"
+msgstr "Обліковий запис"
+
+msgid "Action"
+msgstr "Дія"
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "Active"
+msgstr "Активний"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Address"
+msgstr "Адреса"
+
+msgid "Admin"
+msgstr "Адміністратор"
+
+msgid "Advanced"
+msgstr "Розширені"
+
+msgid "Alert"
+msgstr "Сповіщення"
+
+msgid "All"
+msgstr "Всі"
+
+msgid "Allow"
+msgstr "Дозволити"
+
+msgid "Any"
+msgstr "Будь-який"
+
+msgid "Apply"
+msgstr "Застосувати"
+
+msgid "Authentication"
+msgstr "Автентифікація"
+
+msgid "Auto"
+msgstr "Автоматично"
+
+msgid "Backup"
+msgstr "Резервна копія"
+
+msgid "Block"
+msgstr "Блокувати"
+
+msgid "Both"
+msgstr "Обидва"
+
+msgid "Cache"
+msgstr "Кеш"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Certificate"
+msgstr "Сертифікат"
+
+msgid "Change"
+msgstr "Змінити"
+
+msgid "Check"
+msgstr "Перевірити"
+
+msgid "Clear"
+msgstr "Очистити"
+
+msgid "Client"
+msgstr "Клієнт"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Configuration"
+msgstr "Конфігурація"
+
+msgid "Configure"
+msgstr "Налаштувати"
+
+msgid "Connect"
+msgstr "Підключити"
+
+msgid "Connection"
+msgstr "З'єднання"
+
+msgid "Continue"
+msgstr "Продовжити"
+
+msgid "Control"
+msgstr "Керування"
+
+msgid "Copy"
+msgstr "Копіювати"
+
+msgid "Create"
+msgstr "Створити"
+
+msgid "Custom"
+msgstr "Користувацький"
+
+msgid "Data"
+msgstr "Дані"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Device"
+msgstr "Пристрій"
+
+msgid "Disable"
+msgstr "Вимкнути"
+
+msgid "Disabled"
+msgstr "Вимкнено"
+
+msgid "Download"
+msgstr "Завантажити"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Enable"
+msgstr "Увімкнути"
+
+msgid "Enabled"
+msgstr "Увімкнено"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Export"
+msgstr "Експорт"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Filter"
+msgstr "Фільтр"
+
+msgid "Firewall"
+msgstr "Брандмауер"
+
+msgid "Gateway"
+msgstr "Шлюз"
+
+msgid "General"
+msgstr "Загальні"
+
+msgid "Group"
+msgstr "Група"
+
+msgid "Help"
+msgstr "Допомога"
+
+msgid "Host"
+msgstr "Хост"
+
+msgid "Import"
+msgstr "Імпорт"
+
+msgid "Info"
+msgstr "Інформація"
+
+msgid "Install"
+msgstr "Встановити"
+
+msgid "Interface"
+msgstr "Інтерфейс"
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "List"
+msgstr "Список"
+
+msgid "Load"
+msgstr "Завантажити"
+
+msgid "Local"
+msgstr "Локальний"
+
+msgid "Log"
+msgstr "Журнал"
+
+msgid "Login"
+msgstr "Вхід"
+
+msgid "Logout"
+msgstr "Вихід"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "Network"
+msgstr "Мережа"
+
+msgid "New"
+msgstr "Новий"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Off"
+msgstr "Вимкнено"
+
+msgid "On"
+msgstr "Увімкнено"
+
+msgid "Option"
+msgstr "Опція"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Path"
+msgstr "Шлях"
+
+msgid "Port"
+msgstr "Порт"
+
+msgid "Protocol"
+msgstr "Протокол"
+
+msgid "Proxy"
+msgstr "Проксі"
+
+msgid "Public"
+msgstr "Публічний"
+
+msgid "Remote"
+msgstr "Віддалений"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Reset"
+msgstr "Скинути"
+
+msgid "Restart"
+msgstr "Перезапустити"
+
+msgid "Restore"
+msgstr "Відновити"
+
+msgid "Route"
+msgstr "Маршрут"
+
+msgid "Router"
+msgstr "Маршрутизатор"
+
+msgid "Rule"
+msgstr "Правило"
+
+msgid "Rules"
+msgstr "Правила"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "Security"
+msgstr "Безпека"
+
+msgid "Select"
+msgstr "Вибрати"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Service"
+msgstr "Служба"
+
+msgid "Services"
+msgstr "Служби"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Show"
+msgstr "Показати"
+
+msgid "Size"
+msgstr "Розмір"
+
+msgid "Start"
+msgstr "Запустити"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Stop"
+msgstr "Зупинити"
+
+msgid "System"
+msgstr "Система"
+
+msgid "Test"
+msgstr "Тест"
+
+msgid "Time"
+msgstr "Час"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Update"
+msgstr "Оновити"
+
+msgid "Upload"
+msgstr "Завантажити"
+
+msgid "User"
+msgstr "Користувач"
+
+msgid "Users"
+msgstr "Користувачі"
+
+msgid "Value"
+msgstr "Значення"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "View"
+msgstr "Переглянути"
+
+msgid "Web"
+msgstr "Веб"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "Zone"
+msgstr "Зона"
