@@ -4719,12 +4719,12 @@ msgstr ""
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/maintenance.volt, line: 122
 msgid "DELETE:"
-msgstr ""
+msgstr "Delete:"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/IPsec/Api/TunnelController.php, line: 99
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/IPsec/Api/TunnelController.php, line: 234
 msgid "DH Group"
-msgstr ""
+msgstr "Dh група"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1066
 msgid "DH key group"
@@ -4740,31 +4740,31 @@ msgstr ""
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/core.inc, line: 401
 msgid "DHCPD"
-msgstr ""
+msgstr "Dhcpd"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/core.inc, line: 408
 msgid "DHCPDv6"
-msgstr ""
+msgstr "Dhcpdv6"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/dhcrelay.inc, line: 63
 msgid "DHCPv4 Relay"
-msgstr ""
+msgstr "Dhcpv4 Relay"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/dhcpd.inc, line: 121
 msgid "DHCPv4 Server"
-msgstr ""
+msgstr "Dhcpv4 сервер"
 #
 # File: /usr/core/src/www/interfaces.php, line: 1467
 msgid "DHCPv6"
-msgstr ""
+msgstr "Dhcpv6"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/dhcrelay.inc, line: 63
 msgid "DHCPv6 Relay"
-msgstr ""
+msgstr "Dhcpv6 Relay"
 #
 # File: /usr/core/src/etc/inc/plugins.inc.d/dhcpd.inc, line: 131
 msgid "DHCPv6 Server"
-msgstr ""
+msgstr "Dhcpv6 сервер"
 #
 # File: /usr/core/src/www/services_dhcpv6.php, line: 757
 msgid "DHCPv6 Static Mappings for this interface."
@@ -4776,7 +4776,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Diagnostics/Api/InterfaceController.php, line: 330
 msgid "DISABLED"
-msgstr ""
+msgstr "Disabled"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1372
 msgid "DNS Domain search list"
@@ -4792,7 +4792,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_router_advertisements.php, line: 436
 msgid "DNS options"
-msgstr ""
+msgstr "Dns Options"
 #
 # File: /usr/core/src/www/system_general.php, line: 493
 msgid "DNS search domain"
@@ -4809,25 +4809,25 @@ msgstr ""
 # File: /usr/plugins/dns/bind/src/opnsense/mvc/app/views/OPNsense/Bind/general.volt, line: 32
 # File: /usr/plugins/dns/dnscrypt-proxy/src/opnsense/mvc/app/views/OPNsense/Dnscryptproxy/general.volt, line: 35
 msgid "DNSBL"
-msgstr ""
+msgstr "Dnsbl"
 #
 # File: /usr/core/src/www/services_dnsmasq.php, line: 300
 msgid "DNSSEC"
-msgstr ""
+msgstr "Dnssec"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/packetcapture.volt, line: 265
 msgid "DST"
-msgstr ""
+msgstr "Dst"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/DHCPv6/leases.volt, line: 183
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/DHCPv6/leases.volt, line: 208
 # File: /usr/core/src/www/services_dhcpv6.php, line: 760
 msgid "DUID"
-msgstr ""
+msgstr "Duid"
 #
 # File: /usr/core/src/www/services_dhcpv6_edit.php, line: 179
 msgid "DUID Identifier"
-msgstr ""
+msgstr "Duid Identifier"
 #
 # File: /usr/core/src/www/services_dhcpv6_edit.php, line: 184
 msgid "DUID-LLT - ETH -- TIME --- ---- ADDR ----"
@@ -4835,11 +4835,11 @@ msgstr ""
 #
 # File: /usr/plugins/net/vnstat/src/opnsense/mvc/app/views/OPNsense/Vnstat/general.volt, line: 32
 msgid "Daily Statistics"
-msgstr ""
+msgstr "Daily Statistics"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/index.volt, line: 216
 msgid "Data Streams"
-msgstr ""
+msgstr "дані Streams"
 #
 # File: /usr/core/src/www/reporting_settings.php, line: 57
 msgid "Database repair in progress, daemon will start when done."
@@ -4856,11 +4856,11 @@ msgstr "Дата"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 766
 msgid "Date from"
-msgstr ""
+msgstr "Date From"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 767
 msgid "Date to"
-msgstr ""
+msgstr "Date To"
 #
 # File: /usr/core/src/www/firewall_schedule_edit.php, line: 949
 msgid "Day(s)"
@@ -4878,7 +4878,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/diagnostics.volt, line: 358
 msgid "Dead Time"
-msgstr ""
+msgstr "Dead час"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1111
 msgid ""
@@ -4893,19 +4893,19 @@ msgstr ""
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/bgp.volt, line: 200
 msgid "Default Originate"
-msgstr ""
+msgstr "за замовчуванням Originate"
 #
 # File: /usr/plugins/www/OPNProxy/src/opnsense/mvc/app/views/Deciso/Proxy/acl.volt, line: 79
 msgid "Default Policies"
-msgstr ""
+msgstr "за замовчуванням Policies"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 470
 msgid "Default block"
-msgstr ""
+msgstr "за замовчуванням блокувати"
 #
 # File: /usr/plugins/net/upnp/src/www/services_upnp.php, line: 372
 msgid "Default deny"
-msgstr ""
+msgstr "за замовчуванням Deny"
 #
 # File: /usr/core/src/www/services_dhcp_edit.php, line: 424
 # File: /usr/core/src/www/services_dhcpv6.php, line: 555
@@ -4918,7 +4918,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 480
 msgid "Default pass"
-msgstr ""
+msgstr "за замовчуванням Pass"
 #
 # File: /usr/core/src/www/system_gateway_groups_edit.php, line: 262
 msgid "Default: Round Robin, Sticky Address determined by advanced settings"
@@ -4927,7 +4927,7 @@ msgstr ""
 # File: /usr/core/src/www/system_groupmanager.php, line: 257
 # File: /usr/core/src/www/system_usermanager.php, line: 572
 msgid "Defined by"
-msgstr ""
+msgstr "Defined By"
 #
 # File: /usr/plugins/net/igmp-proxy/src/www/services_igmpproxy_edit.php, line: 204
 msgid ""
@@ -4954,7 +4954,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/DHCPv6/leases.volt, line: 162
 msgid "Delegated Prefixes"
-msgstr ""
+msgstr "Delegated Prefixes"
 #
 # File: /usr/plugins/net/relayd/src/opnsense/mvc/app/views/OPNsense/Relayd/index.volt, line: 276
 # File: /usr/plugins/net/relayd/src/opnsense/mvc/app/views/OPNsense/Relayd/index.volt, line: 299
@@ -5017,7 +5017,7 @@ msgstr ""
 #
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/statistics.volt, line: 271
 msgid "Denied Req"
-msgstr ""
+msgstr "Denied Req"
 #
 # File: /usr/core/src/www/system_usermanager.php, line: 583
 msgid "Deny authentication, only applicable for local users"
@@ -5046,7 +5046,7 @@ msgstr "Розгортання"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 1107
 msgid "Deployment type"
-msgstr ""
+msgstr "Deployment тип"
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Trust/Api/CrlController.php, line: 193
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Base/FieldTypes/DescriptionField.php, line: 43
@@ -5055,7 +5055,7 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/layouts/default.volt, line: 332
 msgid "Deselect All"
-msgstr ""
+msgstr "Deselect All"
 #
 # File: /usr/core/src/www/system_usermanager_addprivs.php, line: 271
 msgid "Deselect all (visible)"
@@ -5063,24 +5063,24 @@ msgstr ""
 #
 # File: /usr/plugins/security/tor/src/opnsense/mvc/app/views/OPNsense/Tor/diagnostics.volt, line: 102
 msgid "Destination Host"
-msgstr ""
+msgstr "Destination хост"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_stats.volt, line: 112
 msgid "Destination IPs"
-msgstr ""
+msgstr "Destination Ips"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_stats.volt, line: 114
 msgid "Destination Ports"
-msgstr ""
+msgstr "Destination Ports"
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/index.volt, line: 476
 msgid "Destination URL"
-msgstr ""
+msgstr "Destination Url"
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 74
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 982
 msgid "Destination Unreachable"
-msgstr ""
+msgstr "Destination Unreachable"
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 156
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 801
@@ -5089,7 +5089,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1222
 # File: /usr/core/src/www/firewall_scrub_edit.php, line: 484
 msgid "Destination address"
-msgstr ""
+msgstr "Destination адреса"
 #
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/Firewall/Filter.php, line: 68
 msgid "Destination address type should match selected TCP/IP protocol version."
@@ -5097,7 +5097,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_nat_out_edit.php, line: 584
 msgid "Destination invert"
-msgstr ""
+msgstr "Destination Invert"
 #
 # File: /usr/core/src/www/firewall_nat_edit.php, line: 147
 msgid "Destination port from"
@@ -5119,7 +5119,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules.php, line: 91
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1017
 msgid "Destination unreachable"
-msgstr ""
+msgstr "Destination Unreachable"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_log.volt, line: 372
 msgid "Detailed rule info"
@@ -5127,7 +5127,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_scrub.php, line: 298
 msgid "Detailed settings"
-msgstr ""
+msgstr "Detailed налаштування"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/networkinsight.volt, line: 658
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 731
@@ -5163,18 +5163,18 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 781
 msgid "Device Mode"
-msgstr ""
+msgstr "пристрій Mode"
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 621
 msgid "Device mode"
-msgstr ""
+msgstr "пристрій Mode"
 #
 # File: /usr/plugins/sysutils/smart/src/opnsense/mvc/app/views/OPNsense/Smart/index.volt, line: 146
 # File: /usr/plugins/sysutils/smart/src/opnsense/mvc/app/views/OPNsense/Smart/index.volt, line: 182
 # File: /usr/plugins/sysutils/smart/src/opnsense/mvc/app/views/OPNsense/Smart/index.volt, line: 216
 # File: /usr/plugins/sysutils/smart/src/opnsense/mvc/app/views/OPNsense/Smart/index.volt, line: 241
 msgid "Device: /dev/"
-msgstr ""
+msgstr "Device: /dev/"
 #
 # File: /usr/core/src/www/services_ntpd_pps.php, line: 194
 msgid ""
@@ -5228,7 +5228,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 601
 msgid "Disable Firewall"
-msgstr ""
+msgstr "вимкнути брандмауер"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 745
 msgid "Disable HTTP_REFERER enforcement check"
@@ -5236,23 +5236,23 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 328
 msgid "Disable Log"
-msgstr ""
+msgstr "вимкнути журнал"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1177
 msgid "Disable MOBIKE"
-msgstr ""
+msgstr "вимкнути Mobike"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1126
 msgid "Disable Reauth"
-msgstr ""
+msgstr "вимкнути Reauth"
 #
 # File: /usr/core/src/www/vpn_ipsec_phase1.php, line: 1117
 msgid "Disable Rekey"
-msgstr ""
+msgstr "вимкнути Rekey"
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 314
 msgid "Disable Rule"
-msgstr ""
+msgstr "вимкнути правило"
 #
 # File: /usr/core/src/www/interfaces.php, line: 2104
 # File: /usr/core/src/www/system_advanced_network.php, line: 337
@@ -5284,7 +5284,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 705
 msgid "Disable anti-lockout"
-msgstr ""
+msgstr "вимкнути Anti-lockout"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 435
 msgid ""
@@ -5321,7 +5321,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 889
 msgid "Disable logging"
-msgstr ""
+msgstr "вимкнути Logging"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 647
 msgid "Disable logging of web GUI successful logins"
@@ -5345,7 +5345,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 694
 msgid "Disable reply-to"
-msgstr ""
+msgstr "вимкнути Reply-to"
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 697
 msgid "Disable reply-to on WAN rules"
@@ -5353,7 +5353,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/firewall_rules.php, line: 887
 msgid "Disable rule"
-msgstr ""
+msgstr "вимкнути правило"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IDS/index.volt, line: 755
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/IDS/index.volt, line: 842
@@ -5361,7 +5361,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_nat_out.php, line: 385
 # File: /usr/core/src/www/firewall_rules.php, line: 732
 msgid "Disable selected"
-msgstr ""
+msgstr "вимкнути Selected"
 #
 # File: /usr/core/src/www/firewall_nat.php, line: 231
 # File: /usr/core/src/www/firewall_nat_out.php, line: 195
