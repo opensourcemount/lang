@@ -2298,15 +2298,15 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1131
 msgid "Allow clients on the bridge to obtain DHCP."
-msgstr ""
+msgstr "Allow клієнтs on the bridge to obtain DHCP."
 #
 # File: /usr/core/src/www/vpn_ipsec_mobile.php, line: 506
 msgid "Allow clients to save Xauth passwords (Cisco VPN client only)"
-msgstr ""
+msgstr "Allow клієнтs to save Xauth passwords (Cisco VPN клієнт only)"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1306
 msgid "Allow communication between clients connected to this server"
-msgstr ""
+msgstr "Allow communication between clients connected to this сервер"
 #
 # File: /usr/core/src/www/vpn_openvpn_server.php, line: 1339
 msgid ""
@@ -2373,7 +2373,7 @@ msgstr ""
 # File: /usr/core/src/www/firewall_rules.php, line: 77
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 985
 msgid "Alternate Host Address (Deprecated)"
-msgstr ""
+msgstr "Alternate Host Адреса (Deprecated)"
 #
 # File: /usr/core/src/www/system_advanced_admin.php, line: 675
 msgid "Alternate Hostnames"
@@ -2429,7 +2429,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_authservers.php, line: 212
 msgid "An authentication server with the same name already exists."
-msgstr ""
+msgstr "An authentication сервер with the same name already exists."
 #
 # File: /usr/core/src/opnsense/mvc/app/controllers/OPNsense/Core/Api/FirmwareController.php, line: 285
 msgid "An error occurred while connecting to the selected mirror."
@@ -2437,11 +2437,11 @@ msgstr ""
 #
 # File: /usr/core/src/www/services_dnsmasq_domainoverride_edit.php, line: 95
 msgid "An interface IP address must be specified for the DNS query source."
-msgstr ""
+msgstr "An interface IP-адреса must be specified for the DNS query source."
 #
 # File: /usr/core/src/www/interfaces.php, line: 648
 msgid "An interface with the specified description already exists."
-msgstr ""
+msgstr "An інтерфейс with the specified description already exists."
 #
 # File: /usr/core/src/www/services_router_advertisements.php, line: 109
 #, php-format
@@ -2739,7 +2739,7 @@ msgstr ""
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/OpenVPN/OpenVPN.php, line: 78
 # File: /usr/core/src/opnsense/mvc/app/models/OPNsense/OpenVPN/OpenVPN.php, line: 81
 msgid "At least one IPv4 or IPv6 tunnel network is required."
-msgstr ""
+msgstr "At least one IPv4 or IPv6 tunnel мережа is required."
 #
 # File: /usr/core/src/www/vpn_ipsec_phase2.php, line: 369
 msgid "At least one encryption algorithm must be selected."
@@ -2760,7 +2760,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/vpn_openvpn_client.php, line: 245
 msgid "At least one remote server must be specified."
-msgstr ""
+msgstr "At least one remote сервер must be specified."
 #
 # File: /usr/core/src/www/diag_backup.php, line: 287
 #, php-format
@@ -2777,7 +2777,7 @@ msgstr "Атрибути"
 #
 # File: /usr/core/src/www/diag_authentication.php, line: 68
 msgid "Attributes received from server"
-msgstr ""
+msgstr "Attributes received from сервер"
 #
 # File: /usr/plugins/net/chrony/src/opnsense/mvc/app/views/OPNsense/Chrony/general.volt, line: 33
 msgid "Auth Data"
@@ -2827,7 +2827,7 @@ msgstr "Значення порту автентифікації"
 # File: /usr/core/src/www/system_advanced_admin.php, line: 133
 #, php-format
 msgid "Authentication server \"%s\" is invalid."
-msgstr ""
+msgstr "Authentication сервер \"%s\" is invalid."
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Trust/cert.volt, line: 289
 msgid "Authority"
@@ -3053,7 +3053,7 @@ msgstr "Облікові дані прив'язки"
 # File: /usr/core/src/www/firewall_rules_edit.php, line: 1731
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 591
 msgid "Bind states to interface"
-msgstr ""
+msgstr "Bind states to інтерфейс"
 #
 # File: /usr/core/src/www/system_authservers.php, line: 167
 msgid "Bind user DN"
@@ -3091,7 +3091,7 @@ msgstr "Розмір блоку"
 #
 # File: /usr/core/src/www/interfaces.php, line: 1906
 msgid "Block private networks"
-msgstr ""
+msgstr "Block private мережаs"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overview.volt, line: 770
 msgid "Blocked"
@@ -3157,7 +3157,7 @@ msgstr "Конфігурація мосту"
 #
 # File: /usr/core/src/www/interfaces_bridge_edit.php, line: 137
 msgid "Bridging a wireless interface is only possible in hostap mode."
-msgstr ""
+msgstr "Bridging a wireless інтерфейс is only possible in hostap mode."
 #
 # File: /usr/plugins/www/nginx/src/opnsense/mvc/app/views/OPNsense/Nginx/index.volt, line: 638
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/TrafficShaper/index.volt, line: 153
@@ -3226,7 +3226,7 @@ msgstr ""
 #
 # File: /usr/core/src/www/system_advanced_firewall.php, line: 685
 msgid "Bypass firewall rules for traffic on the same interface"
-msgstr ""
+msgstr "Bypass firewall rules for traffic on the same інтерфейс"
 #
 # File: /usr/plugins/benchmarks/iperf/src/opnsense/mvc/app/views/OPNsense/iperf/index.volt, line: 92
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Diagnostics/fw_pftop.volt, line: 118
