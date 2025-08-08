@@ -6191,7 +6191,7 @@ msgstr "редагувати Gif"
 # File: /usr/plugins/net/haproxy/src/opnsense/mvc/app/views/OPNsense/HAProxy/index.volt, line: 1308
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Firewall/group.volt, line: 69
 msgid "Edit Group"
-msgstr ""
+msgstr "редагувати група"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/reverse_proxy.volt, line: 586
 msgid "Edit HTTP Handler"
@@ -6215,15 +6215,15 @@ msgstr ""
 #
 # File: /usr/plugins/net/freeradius/src/opnsense/mvc/app/views/OPNsense/Freeradius/proxy.volt, line: 236
 msgid "Edit Homeserverpools"
-msgstr ""
+msgstr "редагувати Homeserverpools"
 #
 # File: /usr/plugins/net/freeradius/src/opnsense/mvc/app/views/OPNsense/Freeradius/proxy.volt, line: 235
 msgid "Edit Homeservers"
-msgstr ""
+msgstr "редагувати Homeservers"
 #
 # File: /usr/plugins/security/tinc/src/opnsense/mvc/app/views/OPNsense/Tinc/index.volt, line: 157
 msgid "Edit Host"
-msgstr ""
+msgstr "редагувати хост"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Unbound/overrides.volt, line: 301
 msgid "Edit Host Override"
@@ -6239,16 +6239,16 @@ msgstr ""
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/OpenVPN/instances.volt, line: 170
 msgid "Edit Instance"
-msgstr ""
+msgstr "редагувати Instance"
 #
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/ospf.volt, line: 240
 # File: /usr/plugins/net/frr/src/opnsense/mvc/app/views/OPNsense/Quagga/ospf6.volt, line: 252
 msgid "Edit Interface"
-msgstr ""
+msgstr "редагувати інтерфейс"
 #
 # File: /usr/core/src/opnsense/mvc/app/views/OPNsense/Interface/lagg.volt, line: 69
 msgid "Edit Lagg"
-msgstr ""
+msgstr "редагувати Lagg"
 #
 # File: /usr/plugins/www/caddy/src/opnsense/mvc/app/views/OPNsense/Caddy/layer4.volt, line: 179
 msgid "Edit Layer4 Route"
